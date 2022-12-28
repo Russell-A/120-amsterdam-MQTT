@@ -1,0 +1,2636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (2798843 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="40.8088500" minlon="-73.9600400" maxlat="40.8098400" maxlon="-73.9584800"/>
+ <node id="42442577" visible="true" version="4" changeset="74602782" timestamp="2019-09-18T01:42:24Z" user="LucasLarson" uid="38533" lat="40.8081275" lon="-73.9601090"/>
+ <node id="42442578" visible="true" version="5" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533" lat="40.8087553" lon="-73.9596506"/>
+ <node id="1504153626" visible="true" version="6" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8093443" lon="-73.9592110">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2133873543" visible="true" version="4" changeset="74239047" timestamp="2019-09-09T00:45:04Z" user="LucasLarson" uid="38533" lat="40.8094863" lon="-73.9591071"/>
+ <node id="2217164106" visible="true" version="3" changeset="117089562" timestamp="2022-02-06T18:05:52Z" user="aapeliv" uid="10135657" lat="40.8090061" lon="-73.9592428">
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="1213"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="name" v="SubsConscious"/>
+  <tag k="opening_hours:covid19" v="open"/>
+  <tag k="phone" v="+12128642720"/>
+  <tag k="shop" v="deli"/>
+  <tag k="website" v="https://www.subsconscious.com/"/>
+ </node>
+ <node id="2308955220" visible="true" version="2" changeset="74602782" timestamp="2019-09-18T01:42:24Z" user="LucasLarson" uid="38533" lat="40.8081901" lon="-73.9600647"/>
+ <node id="2308955225" visible="true" version="4" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657" lat="40.8101996" lon="-73.9616612"/>
+ <node id="2340960702" visible="true" version="2" changeset="74239047" timestamp="2019-09-09T00:45:04Z" user="LucasLarson" uid="38533" lat="40.8103318" lon="-73.9615691"/>
+ <node id="2768438931" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:19Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095700" lon="-73.9592763">
+  <tag k="addr:housenumber" v="1224"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+ </node>
+ <node id="2768438934" visible="true" version="3" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8097666" lon="-73.9591095">
+  <tag k="addr:housenumber" v="1230"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="2768438936" visible="true" version="3" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8098654" lon="-73.9590377">
+  <tag k="access" v="private"/>
+  <tag k="addr:housenumber" v="1234"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="2768438991" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:20Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095985" lon="-73.9594386">
+  <tag k="addr:housenumber" v="501"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 120th Street"/>
+ </node>
+ <node id="2768439027" visible="true" version="4" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8095180" lon="-73.9592862">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Columbia University"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768439035" visible="true" version="3" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8096529" lon="-73.9596040"/>
+ <node id="2768439037" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8096804" lon="-73.9594336"/>
+ <node id="2768439038" visible="true" version="3" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8096866" lon="-73.9596833"/>
+ <node id="2768439042" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8096991" lon="-73.9596743"/>
+ <node id="2768439045" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097159" lon="-73.9597284"/>
+ <node id="2768439048" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097204" lon="-73.9597251"/>
+ <node id="2768439049" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097284" lon="-73.9595484"/>
+ <node id="2768439062" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097399" lon="-73.9593904"/>
+ <node id="2768439064" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097420" lon="-73.9597909"/>
+ <node id="2768439068" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097493" lon="-73.9597857"/>
+ <node id="2768439076" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097880" lon="-73.9595053"/>
+ <node id="2768439090" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098208" lon="-73.9593477"/>
+ <node id="2768439108" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098637" lon="-73.9594504"/>
+ <node id="2768439110" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098640" lon="-73.9595549"/>
+ <node id="2768439112" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098691" lon="-73.9595459"/>
+ <node id="2768439116" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:21Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098708" lon="-73.9595500"/>
+ <node id="2768439120" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098788" lon="-73.9594395"/>
+ <node id="2768439122" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098808" lon="-73.9593043"/>
+ <node id="2768439124" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098813" lon="-73.9594879"/>
+ <node id="2768439126" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098841" lon="-73.9596030"/>
+ <node id="2768439128" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098883" lon="-73.9596000"/>
+ <node id="2768439132" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098949" lon="-73.9594780"/>
+ <node id="2768439136" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8098971" lon="-73.9595257"/>
+ <node id="2768439138" visible="true" version="3" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8099033" lon="-73.9601939"/>
+ <node id="2768439140" visible="true" version="2" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8099044" lon="-73.9601844"/>
+ <node id="2768439142" visible="true" version="3" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8099089" lon="-73.9602071"/>
+ <node id="2768439143" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099124" lon="-73.9596689"/>
+ <node id="2768439145" visible="true" version="2" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8099161" lon="-73.9601753"/>
+ <node id="2768439147" visible="true" version="2" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8099128" lon="-73.9602090"/>
+ <node id="2768439151" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099160" lon="-73.9596663"/>
+ <node id="2768439155" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099237" lon="-73.9594070"/>
+ <node id="2768439159" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8099421" lon="-73.9602851"/>
+ <node id="2768439161" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099441" lon="-73.9602836"/>
+ <node id="2768439163" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8099479" lon="-73.9602989"/>
+ <node id="2768439165" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099483" lon="-73.9592357"/>
+ <node id="2768439169" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099541" lon="-73.9597688"/>
+ <node id="2768439171" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099601" lon="-73.9602996"/>
+ <node id="2768439175" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099655" lon="-73.9602822"/>
+ <node id="2768439177" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099675" lon="-73.9602868"/>
+ <node id="2768439185" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099945" lon="-73.9602612"/>
+ <node id="2768439187" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8099976" lon="-73.9593535"/>
+ <node id="2768439190" visible="true" version="3" changeset="79202684" timestamp="2020-01-05T00:25:45Z" user="LucasLarson" uid="38533" lat="40.8100019" lon="-73.9589357">
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768439192" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:22Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8100086" lon="-73.9591921"/>
+ <node id="2768439241" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8100506" lon="-73.9605487"/>
+ <node id="2768439246" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8100578" lon="-73.9593099"/>
+ <node id="2768439256" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8100782" lon="-73.9600655"/>
+ <node id="2768439264" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8100860" lon="-73.9600598"/>
+ <node id="2768439283" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8101056" lon="-73.9601696"/>
+ <node id="2768439285" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8101072" lon="-73.9601104"/>
+ <node id="2768439287" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8101102" lon="-73.9601807"/>
+ <node id="2768439297" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8101261" lon="-73.9601548"/>
+ <node id="2768439305" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8101305" lon="-73.9601138"/>
+ <node id="2768439309" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8101339" lon="-73.9607479"/>
+ <node id="2768439313" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8101350" lon="-73.9592540"/>
+ <node id="2768439317" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:23Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8101363" lon="-73.9601277"/>
+ <node id="2768439337" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8101559" lon="-73.9593068"/>
+ <node id="2768439398" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8102704" lon="-73.9610744"/>
+ <node id="2768439469" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8104181" lon="-73.9614277"/>
+ <node id="2768439494" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8104765" lon="-73.9600739"/>
+ <node id="2768439523" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8105275" lon="-73.9601930"/>
+ <node id="2768439539" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8105469" lon="-73.9617360"/>
+ <node id="2768439628" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8106873" lon="-73.9605752"/>
+ <node id="2768439744" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8108944" lon="-73.9610707"/>
+ <node id="2768439801" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8110271" lon="-73.9613882"/>
+ <node id="2768450162" visible="true" version="2" changeset="117089562" timestamp="2022-02-06T18:05:52Z" user="aapeliv" uid="10135657" lat="40.8088562" lon="-73.9593443">
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="1207"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="greek"/>
+  <tag k="name" v="Elysian Fields Cafe"/>
+  <tag k="opening_hours:covid19" v="open"/>
+  <tag k="phone" v="+12128371389"/>
+  <tag k="website" v="https://www.elysianfieldscafe.com/"/>
+ </node>
+ <node id="2768450163" visible="true" version="3" changeset="117089562" timestamp="2022-02-06T18:05:52Z" user="aapeliv" uid="10135657" lat="40.8089776" lon="-73.9592575">
+  <tag k="addr:housenumber" v="1211"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="alt_name" v="Ye Olde Dry Cleaners;Ye Old Cleaning Shop;Ye Olde Cleaning &amp; Tailoring"/>
+  <tag k="name" v="Ye Olde Cleaning &amp; Tailoring"/>
+  <tag k="opening_hours" v="Mo-Fr 07:30-18:30; Sa 08:30-16:00"/>
+  <tag k="phone" v="+1-212-866-2056"/>
+  <tag k="shop" v="dry_cleaning"/>
+ </node>
+ <node id="2768450165" visible="true" version="4" changeset="77462968" timestamp="2019-11-23T16:27:02Z" user="Mixmapper" uid="10482293" lat="40.8090865" lon="-73.9591770">
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="1215"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="pizza"/>
+  <tag k="name" v="Sliced by Harlem Pizza Co."/>
+  <tag k="opening_hours" v="10:00-22:00"/>
+  <tag k="smoking" v="outside"/>
+ </node>
+ <node id="2768450166" visible="true" version="7" changeset="77462968" timestamp="2019-11-23T16:27:02Z" user="Mixmapper" uid="10482293" lat="40.8091195" lon="-73.9591532">
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="1219"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="amenity" v="pharmacy"/>
+  <tag k="healthcare" v="pharmacy"/>
+  <tag k="name" v="Hartley Chemist Pharmacy"/>
+  <tag k="opening_hours" v="09:00-19:00"/>
+  <tag k="website" v="http://www.hartleychemist.com/"/>
+ </node>
+ <node id="2768450167" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:45Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095706" lon="-73.9588173">
+  <tag k="addr:housenumber" v="1225"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+ </node>
+ <node id="2768450168" visible="true" version="2" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8097074" lon="-73.9586945">
+  <tag k="addr:housenumber" v="1235"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="2768450169" visible="true" version="2" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8097473" lon="-73.9586653">
+  <tag k="addr:housenumber" v="1233"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="2768450170" visible="true" version="2" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8097831" lon="-73.9586393">
+  <tag k="addr:housenumber" v="1239"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="2768450176" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:45Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8097526" lon="-73.9584944">
+  <tag k="addr:housenumber" v="420"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 121st Street"/>
+ </node>
+ <node id="2768450180" visible="true" version="3" changeset="77487747" timestamp="2019-11-24T17:17:03Z" user="user_5359" uid="5359" lat="40.8093566" lon="-73.9588730">
+  <tag k="addr:housenumber" v="423"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 120th Street"/>
+ </node>
+ <node id="2768450184" visible="true" version="2" changeset="26281885" timestamp="2014-10-23T16:27:05Z" user="krystlepereira" uid="2408074" lat="40.8090419" lon="-73.9589359">
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="434"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="building" v="apartments"/>
+  <tag k="name" v="The Poinsettia"/>
+ </node>
+ <node id="2768450196" visible="true" version="3" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8096561" lon="-73.9586427">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="2768450409" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:50Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8085535" lon="-73.9583701"/>
+ <node id="2768450416" visible="true" version="2" changeset="75041185" timestamp="2019-09-28T14:15:25Z" user="LucasLarson" uid="38533" lat="40.8085730" lon="-73.9589926"/>
+ <node id="2768450421" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086175" lon="-73.9590979"/>
+ <node id="2768450422" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086192" lon="-73.9585250"/>
+ <node id="2768450425" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086291" lon="-73.9585537"/>
+ <node id="2768450426" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086326" lon="-73.9585152"/>
+ <node id="2768450427" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086427" lon="-73.9591578"/>
+ <node id="2768450428" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086442" lon="-73.9585425"/>
+ <node id="2768450430" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086698" lon="-73.9582845"/>
+ <node id="2768450431" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086774" lon="-73.9582862"/>
+ <node id="2768450432" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086775" lon="-73.9582526"/>
+ <node id="2768450433" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086826" lon="-73.9584221"/>
+ <node id="2768450434" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086880" lon="-73.9592651"/>
+ <node id="2768450435" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086884" lon="-73.9582782"/>
+ <node id="2768450436" visible="true" version="2" changeset="75041185" timestamp="2019-09-28T14:15:25Z" user="LucasLarson" uid="38533" lat="40.8086915" lon="-73.9589060"/>
+ <node id="2768450437" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087007" lon="-73.9589279"/>
+ <node id="2768450438" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087034" lon="-73.9584711"/>
+ <node id="2768450439" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087061" lon="-73.9590331"/>
+ <node id="2768450440" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087133" lon="-73.9593249"/>
+ <node id="2768450442" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087314" lon="-73.9590930"/>
+ <node id="2768450443" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087338" lon="-73.9588006"/>
+ <node id="2768450444" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087434" lon="-73.9582042"/>
+ <node id="2768450445" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087490" lon="-73.9585785"/>
+ <node id="2768450446" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087496" lon="-73.9588922"/>
+ <node id="2768450447" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087581" lon="-73.9594311"/>
+ <node id="2768450448" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087713" lon="-73.9586311"/>
+ <node id="2768450449" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087767" lon="-73.9592002"/>
+ <node id="2768450450" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087994" lon="-73.9583363"/>
+ <node id="2768450451" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088002" lon="-73.9588525"/>
+ <node id="2768450452" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088020" lon="-73.9592601"/>
+ <node id="2768450453" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088202" lon="-73.9583852"/>
+ <node id="2768450454" visible="true" version="2" changeset="75041185" timestamp="2019-09-28T14:15:25Z" user="LucasLarson" uid="38533" lat="40.8088397" lon="-73.9587962"/>
+ <node id="2768450456" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088489" lon="-73.9588169"/>
+ <node id="2768450457" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088516" lon="-73.9587141"/>
+ <node id="2768450458" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088539" lon="-73.9587032"/>
+ <node id="2768450459" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088575" lon="-73.9591806"/>
+ <node id="2768450460" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088658" lon="-73.9584926"/>
+ <node id="2768450461" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088677" lon="-73.9587008"/>
+ <node id="2768450462" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088681" lon="-73.9591729"/>
+ <node id="2768450463" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088757" lon="-73.9592237"/>
+ <node id="2768450464" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088770" lon="-73.9587228"/>
+ <node id="2768450465" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8088881" lon="-73.9585453"/>
+ <node id="2768450466" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089127" lon="-73.9591967"/>
+ <node id="2768450467" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089163" lon="-73.9588805"/>
+ <node id="2768450468" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089229" lon="-73.9591433"/>
+ <node id="2768450469" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089353" lon="-73.9591343"/>
+ <node id="2768450471" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089413" lon="-73.9589396"/>
+ <node id="2768450472" visible="true" version="3" changeset="79767716" timestamp="2020-01-19T22:55:32Z" user="LucasLarson" uid="38533" lat="40.8089429" lon="-73.9586744">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768450473" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089501" lon="-73.9591693"/>
+ <node id="2768450474" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089519" lon="-73.9592894"/>
+ <node id="2768450475" visible="true" version="3" changeset="79767716" timestamp="2020-01-19T22:55:32Z" user="LucasLarson" uid="38533" lat="40.8089572" lon="-73.9587096">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768450478" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089874" lon="-73.9590488"/>
+ <node id="2768450480" visible="true" version="2" changeset="79767716" timestamp="2020-01-19T22:55:32Z" user="LucasLarson" uid="38533" lat="40.8090027" lon="-73.9588174">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768450484" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8090109" lon="-73.9591045"/>
+ <node id="2768450489" visible="true" version="2" changeset="79767716" timestamp="2020-01-19T22:55:32Z" user="LucasLarson" uid="38533" lat="40.8090276" lon="-73.9588765">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768450497" visible="true" version="2" changeset="79202684" timestamp="2020-01-05T00:25:45Z" user="LucasLarson" uid="38533" lat="40.8090737" lon="-73.9589856">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="outdoor"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768450508" visible="true" version="2" changeset="79202684" timestamp="2020-01-05T00:25:45Z" user="LucasLarson" uid="38533" lat="40.8090972" lon="-73.9590413">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="outdoor"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="2768450515" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8091161" lon="-73.9583444"/>
+ <node id="2768450539" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8091430" lon="-73.9591497"/>
+ <node id="2768450554" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8091839" lon="-73.9582950"/>
+ <node id="2768450566" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092067" lon="-73.9583495"/>
+ <node id="2768450572" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8092148" lon="-73.9585809"/>
+ <node id="2768450590" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092231" lon="-73.9583477"/>
+ <node id="2768450595" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092328" lon="-73.9586110"/>
+ <node id="2768450607" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8092582" lon="-73.9582403"/>
+ <node id="2768450609" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092595" lon="-73.9584726"/>
+ <node id="2768450613" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092643" lon="-73.9584622"/>
+ <node id="2768450617" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092742" lon="-73.9583110"/>
+ <node id="2768450623" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092826" lon="-73.9582991"/>
+ <node id="2768450625" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092827" lon="-73.9587299"/>
+ <node id="2768450627" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8092838" lon="-73.9585307"/>
+ <node id="2768450633" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093074" lon="-73.9587884"/>
+ <node id="2768450637" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093198" lon="-73.9584224"/>
+ <node id="2768450641" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8093236" lon="-73.9581930"/>
+ <node id="2768450645" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093340" lon="-73.9584212"/>
+ <node id="2768450665" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093499" lon="-73.9585258"/>
+ <node id="2768450667" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8093574" lon="-73.9584776"/>
+ <node id="2768450668" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093598" lon="-73.9585493"/>
+ <node id="2768450671" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093723" lon="-73.9586521"/>
+ <node id="2768450676" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093763" lon="-73.9586618"/>
+ <node id="2768450683" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093854" lon="-73.9589739"/>
+ <node id="2768450684" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094018" lon="-73.9586306"/>
+ <node id="2768450689" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094075" lon="-73.9587156"/>
+ <node id="2768450691" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094152" lon="-73.9587340"/>
+ <node id="2768450693" visible="true" version="2" changeset="75533243" timestamp="2019-10-10T20:37:52Z" user="LucasLarson" uid="38533" lat="40.8094222" lon="-73.9584307"/>
+ <node id="2768450699" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094382" lon="-73.9587172"/>
+ <node id="2768450703" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094427" lon="-73.9587826"/>
+ <node id="2768450705" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094441" lon="-73.9588237"/>
+ <node id="2768450710" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094525" lon="-73.9588059"/>
+ <node id="2768450712" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094598" lon="-73.9584765"/>
+ <node id="2768450714" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094603" lon="-73.9587698"/>
+ <node id="2768450718" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094698" lon="-73.9587923"/>
+ <node id="2768450720" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094787" lon="-73.9589060"/>
+ <node id="2768450722" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094870" lon="-73.9587916"/>
+ <node id="2768450736" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095219" lon="-73.9588746"/>
+ <node id="2768450751" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095598" lon="-73.9587144"/>
+ <node id="2768450753" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095724" lon="-73.9587272"/>
+ <node id="2768450761" visible="true" version="3" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8095782" lon="-73.9584560"/>
+ <node id="2768450775" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:55Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095892" lon="-73.9587149"/>
+ <node id="2768450787" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:55Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8096248" lon="-73.9587997"/>
+ <node id="2768450800" visible="true" version="3" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8096846" lon="-73.9587110"/>
+ <node id="2768450802" visible="true" version="3" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8097149" lon="-73.9583564"/>
+ <node id="2768450805" visible="true" version="3" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8098214" lon="-73.9586114"/>
+ <node id="2796609765" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:51Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086028" lon="-73.9602226"/>
+ <node id="2796609887" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8086962" lon="-73.9604472"/>
+ <node id="2796609903" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8087591" lon="-73.9598497"/>
+ <node id="2796609906" visible="true" version="2" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533" lat="40.8088434" lon="-73.9600492"/>
+ <node id="2796609916" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:52Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8089512" lon="-73.9599691"/>
+ <node id="2796609928" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8090453" lon="-73.9601932"/>
+ <node id="2796609930" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8090806" lon="-73.9596159"/>
+ <node id="2796609940" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092093" lon="-73.9600739"/>
+ <node id="2796609943" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092394" lon="-73.9601456"/>
+ <node id="2796609949" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092756" lon="-73.9594740"/>
+ <node id="2796609951" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:53Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8092881" lon="-73.9601101"/>
+ <node id="2796609963" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8093555" lon="-73.9602706"/>
+ <node id="2796609989" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:54Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8094314" lon="-73.9604514"/>
+ <node id="2796610018" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:55Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095290" lon="-73.9603804"/>
+ <node id="2796610023" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:55Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095505" lon="-73.9604330"/>
+ <node id="2796610024" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:55Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095507" lon="-73.9603647"/>
+ <node id="2796610027" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:55Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8095732" lon="-73.9604169"/>
+ <node id="2796610033" visible="true" version="1" changeset="21751327" timestamp="2014-04-17T15:15:55Z" user="Rub21_nycbuildings" uid="1781294" lat="40.8096265" lon="-73.9603095"/>
+ <node id="3135723808" visible="true" version="7" changeset="112395742" timestamp="2021-10-12T00:49:13Z" user="Falsernet" uid="13341565" lat="40.8091208" lon="-73.9595173">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="West 120 st/Amsterdam Avenue SB"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="MTA"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="shelter" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="3135730329" visible="true" version="6" changeset="112395742" timestamp="2021-10-12T00:49:13Z" user="Falsernet" uid="13341565" lat="40.8095496" lon="-73.9589214">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Amsterdam Avenue &amp; West 120th Street"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="MTA"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="ref" v="401442"/>
+  <tag k="shelter" v="yes"/>
+ </node>
+ <node id="3579432160" visible="true" version="7" changeset="89088885" timestamp="2020-08-07T11:12:43Z" user="aapeliv" uid="10135657" lat="40.8086658" lon="-73.9576175">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="3579432161" visible="true" version="4" changeset="82537189" timestamp="2020-03-23T18:44:36Z" user="LucasLarson" uid="38533" lat="40.8100023" lon="-73.9587270">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="3579432163" visible="true" version="2" changeset="74239047" timestamp="2019-09-09T00:45:04Z" user="LucasLarson" uid="38533" lat="40.8098094" lon="-73.9603290"/>
+ <node id="4004385973" visible="true" version="2" changeset="37190098" timestamp="2016-02-13T16:37:59Z" user="sherpashaky" uid="499666" lat="40.8092910" lon="-73.9595992">
+  <tag k="addr:housenumber" v="500"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="name" v="Sustainable Engineering Lab"/>
+  <tag k="office" v="research"/>
+ </node>
+ <node id="4707297289" visible="true" version="5" changeset="98449818" timestamp="2021-01-31T14:03:44Z" user="aapeliv" uid="10135657" lat="40.8094157" lon="-73.9589337">
+  <tag k="addr:housenumber" v="1225"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="name" v="Apple Tree Supermarket"/>
+  <tag k="opening_hours" v="24/7"/>
+  <tag k="opening_hours:covid19" v="Mo-Su 06:00-22:00"/>
+  <tag k="phone" v="+1-212-865-8840"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="4762583942" visible="true" version="2" changeset="47279768" timestamp="2017-03-30T04:09:12Z" user="nammala" uid="3479270" lat="40.8089595" lon="-73.9585800">
+  <tag k="amenity" v="post_office"/>
+ </node>
+ <node id="5157312571" visible="true" version="1" changeset="52764592" timestamp="2017-10-09T16:12:25Z" user="kshi" uid="5187461" lat="40.8089595" lon="-73.9602556"/>
+ <node id="5157312572" visible="true" version="1" changeset="52764592" timestamp="2017-10-09T16:12:25Z" user="kshi" uid="5187461" lat="40.8087856" lon="-73.9598304"/>
+ <node id="5157319258" visible="true" version="1" changeset="52764532" timestamp="2017-10-09T16:10:35Z" user="kshi" uid="5187461" lat="40.8092408" lon="-73.9600009"/>
+ <node id="5157319259" visible="true" version="1" changeset="52764532" timestamp="2017-10-09T16:10:35Z" user="kshi" uid="5187461" lat="40.8091675" lon="-73.9598167"/>
+ <node id="5157319260" visible="true" version="1" changeset="52764532" timestamp="2017-10-09T16:10:35Z" user="kshi" uid="5187461" lat="40.8090357" lon="-73.9599117"/>
+ <node id="5157319261" visible="true" version="1" changeset="52764532" timestamp="2017-10-09T16:10:35Z" user="kshi" uid="5187461" lat="40.8091119" lon="-73.9600899"/>
+ <node id="6781692070" visible="true" version="1" changeset="74239047" timestamp="2019-09-09T00:45:04Z" user="LucasLarson" uid="38533" lat="40.8093816" lon="-73.9591838"/>
+ <node id="6791440528" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087928" lon="-73.9576746"/>
+ <node id="6791440545" visible="true" version="6" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8087098" lon="-73.9577181">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6796146795" visible="true" version="1" changeset="74486671" timestamp="2019-09-15T01:20:48Z" user="LucasLarson" uid="38533" lat="40.8096239" lon="-73.9588003">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Columbia University"/>
+ </node>
+ <node id="6796146796" visible="true" version="1" changeset="74486671" timestamp="2019-09-15T01:20:48Z" user="LucasLarson" uid="38533" lat="40.8096237" lon="-73.9588005">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Columbia University"/>
+ </node>
+ <node id="6814582549" visible="true" version="1" changeset="74758273" timestamp="2019-09-21T20:04:22Z" user="LucasLarson" uid="38533" lat="40.8092768" lon="-73.9594770">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Columbia University"/>
+ </node>
+ <node id="6814582556" visible="true" version="2" changeset="76178111" timestamp="2019-10-25T01:14:50Z" user="LucasLarson" uid="38533" lat="40.8098921" lon="-73.9590177">
+  <tag k="access" v="private"/>
+  <tag k="addr:housenumber" v="1234"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="6814582558" visible="true" version="1" changeset="74758273" timestamp="2019-09-21T20:04:22Z" user="LucasLarson" uid="38533" lat="40.8092735" lon="-73.9594755">
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Columbia University"/>
+ </node>
+ <node id="6816455650" visible="true" version="2" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8093824" lon="-73.9590163"/>
+ <node id="6816455655" visible="true" version="2" changeset="76219899" timestamp="2019-10-25T16:26:00Z" user="LucasLarson" uid="38533" lat="40.8099036" lon="-73.9586383"/>
+ <node id="6832782242" visible="true" version="1" changeset="75041185" timestamp="2019-09-28T14:15:25Z" user="LucasLarson" uid="38533" lat="40.8089498" lon="-73.9586915">
+  <tag k="access" v="no"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="6839143863" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8099274" lon="-73.9586296"/>
+ <node id="6839143866" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087725" lon="-73.9576570"/>
+ <node id="6839143869" visible="true" version="4" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087735" lon="-73.9576871">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="6839143870" visible="true" version="2" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093674" lon="-73.9590540"/>
+ <node id="6839143871" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8094083" lon="-73.9590478"/>
+ <node id="6839143872" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8099285" lon="-73.9586506"/>
+ <node id="6839143874" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087763" lon="-73.9576468"/>
+ <node id="6839143877" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087714" lon="-73.9576744"/>
+ <node id="6839143878" visible="true" version="5" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087799" lon="-73.9576419">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="6839143880" visible="true" version="2" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093578" lon="-73.9590414"/>
+ <node id="6839143881" visible="true" version="2" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093938" lon="-73.9590565"/>
+ <node id="6839143882" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8099211" lon="-73.9586681"/>
+ <node id="6839143883" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8099248" lon="-73.9586227"/>
+ <node id="6839143884" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087841" lon="-73.9576376"/>
+ <node id="6839169587" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087718" lon="-73.9576621"/>
+ <node id="6839169590" visible="true" version="2" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093796" lon="-73.9590580"/>
+ <node id="6839169591" visible="true" version="2" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093733" lon="-73.9590571"/>
+ <node id="6839169592" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8098926" lon="-73.9587001"/>
+ <node id="6839169593" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8099287" lon="-73.9586407"/>
+ <node id="6839169595" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087741" lon="-73.9576521"/>
+ <node id="6839169598" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087718" lon="-73.9576804"/>
+ <node id="6839169600" visible="true" version="2" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093630" lon="-73.9590495"/>
+ <node id="6839169601" visible="true" version="2" changeset="76219899" timestamp="2019-10-25T16:26:00Z" user="LucasLarson" uid="38533" lat="40.8093994" lon="-73.9590537">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="6839169602" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8099258" lon="-73.9586596"/>
+ <node id="6839169603" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8097819" lon="-73.9582822"/>
+ <node id="6839169607" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087714" lon="-73.9576682"/>
+ <node id="6839169609" visible="true" version="3" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8087774" lon="-73.9577001"/>
+ <node id="6839169611" visible="true" version="2" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093862" lon="-73.9590577"/>
+ <node id="6839169612" visible="true" version="1" changeset="75124833" timestamp="2019-10-01T02:17:04Z" user="LucasLarson" uid="38533" lat="40.8099099" lon="-73.9586839"/>
+ <node id="6856323619" visible="true" version="2" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8092678" lon="-73.9594466"/>
+ <node id="6856323620" visible="true" version="1" changeset="75354954" timestamp="2019-10-07T02:43:02Z" user="Gabe DeFreitas" uid="7440868" lat="40.8081202" lon="-73.9602781"/>
+ <node id="6856323621" visible="true" version="2" changeset="117100043" timestamp="2022-02-07T03:02:28Z" user="MxxCon" uid="384667" lat="40.8073915" lon="-73.9585812"/>
+ <node id="6856323622" visible="true" version="2" changeset="117100043" timestamp="2022-02-07T03:02:28Z" user="MxxCon" uid="384667" lat="40.8062749" lon="-73.9594125"/>
+ <node id="6856323623" visible="true" version="1" changeset="75354954" timestamp="2019-10-07T02:43:02Z" user="Gabe DeFreitas" uid="7440868" lat="40.8069716" lon="-73.9611184"/>
+ <node id="6856323624" visible="true" version="1" changeset="75354954" timestamp="2019-10-07T02:43:02Z" user="Gabe DeFreitas" uid="7440868" lat="40.8056331" lon="-73.9620882"/>
+ <node id="6856323625" visible="true" version="1" changeset="75354954" timestamp="2019-10-07T02:43:02Z" user="Gabe DeFreitas" uid="7440868" lat="40.8066923" lon="-73.9646399"/>
+ <node id="6856323626" visible="true" version="2" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8103407" lon="-73.9619964"/>
+ <node id="6886957278" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094636" lon="-73.9592668"/>
+ <node id="6886957279" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110852" lon="-73.9614001"/>
+ <node id="6886957281" visible="true" version="2" changeset="82537189" timestamp="2020-03-23T18:44:36Z" user="LucasLarson" uid="38533" lat="40.8100371" lon="-73.9589078"/>
+ <node id="6886957283" visible="true" version="2" changeset="82537189" timestamp="2020-03-23T18:44:36Z" user="LucasLarson" uid="38533" lat="40.8099832" lon="-73.9588641"/>
+ <node id="6887003285" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110911" lon="-73.9614294"/>
+ <node id="6887003287" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094651" lon="-73.9592722"/>
+ <node id="6887003288" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110816" lon="-73.9613917"/>
+ <node id="6887003290" visible="true" version="3" changeset="82537189" timestamp="2020-03-23T18:44:36Z" user="LucasLarson" uid="38533" lat="40.8100246" lon="-73.9588793"/>
+ <node id="6887003294" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8097485" lon="-73.9590369"/>
+ <node id="6887003296" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110912" lon="-73.9614237"/>
+ <node id="6887003297" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094670" lon="-73.9592776"/>
+ <node id="6887003299" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8100212" lon="-73.9588733"/>
+ <node id="6887003301" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8105759" lon="-73.9618179"/>
+ <node id="6887003303" visible="true" version="3" changeset="76219899" timestamp="2019-10-25T16:26:00Z" user="LucasLarson" uid="38533" lat="40.8094781" lon="-73.9592361">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="6887003305" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110897" lon="-73.9614159"/>
+ <node id="6887003307" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094687" lon="-73.9592832"/>
+ <node id="6887003308" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8098951" lon="-73.9603063"/>
+ <node id="6887003309" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8100177" lon="-73.9588680"/>
+ <node id="6887003310" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8105867" lon="-73.9618101"/>
+ <node id="6887003311" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094752" lon="-73.9592382"/>
+ <node id="6887003312" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8102083" lon="-73.9610438"/>
+ <node id="6887003314" visible="true" version="2" changeset="75943755" timestamp="2019-10-20T04:09:21Z" user="LucasLarson" uid="38533" lat="40.8110878" lon="-73.9614082">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="6887003316" visible="true" version="2" changeset="75943755" timestamp="2019-10-20T04:09:21Z" user="LucasLarson" uid="38533" lat="40.8094709" lon="-73.9592886">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="6887003317" visible="true" version="2" changeset="75943755" timestamp="2019-10-20T04:09:21Z" user="LucasLarson" uid="38533" lat="40.8105294" lon="-73.9618078">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="6887003319" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8100143" lon="-73.9588641"/>
+ <node id="6887003322" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094707" lon="-73.9592417"/>
+ <node id="6887003324" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094938" lon="-73.9593468"/>
+ <node id="6887003325" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8105346" lon="-73.9618159"/>
+ <node id="6887003327" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8100094" lon="-73.9588603"/>
+ <node id="6887003329" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110623" lon="-73.9614624"/>
+ <node id="6887003331" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094671" lon="-73.9592468"/>
+ <node id="6887003333" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8105390" lon="-73.9618204"/>
+ <node id="6887003334" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8100046" lon="-73.9588578"/>
+ <node id="6887003336" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110726" lon="-73.9614550"/>
+ <node id="6887003337" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094649" lon="-73.9592521"/>
+ <node id="6887003339" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8105431" lon="-73.9618235"/>
+ <node id="6887003340" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8099999" lon="-73.9588570"/>
+ <node id="6887003342" visible="true" version="2" changeset="117614006" timestamp="2022-02-19T17:50:13Z" user="aapeliv" uid="10135657" lat="40.8110799" lon="-73.9614496">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="6887003343" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094633" lon="-73.9592570"/>
+ <node id="6887003344" visible="true" version="2" changeset="117614006" timestamp="2022-02-19T17:50:13Z" user="aapeliv" uid="10135657" lat="40.8105672" lon="-73.9618234">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="6887003348" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8105469" lon="-73.9618254"/>
+ <node id="6887003350" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8099961" lon="-73.9588574"/>
+ <node id="6887003352" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110854" lon="-73.9614429"/>
+ <node id="6887003353" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8094627" lon="-73.9592615"/>
+ <node id="6887003359" visible="true" version="3" changeset="76219899" timestamp="2019-10-25T16:26:00Z" user="LucasLarson" uid="38533" lat="40.8099909" lon="-73.9588597">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="6887003361" visible="true" version="1" changeset="75799945" timestamp="2019-10-16T19:50:33Z" user="LucasLarson" uid="38533" lat="40.8110895" lon="-73.9614359"/>
+ <node id="6916346816" visible="true" version="1" changeset="76219899" timestamp="2019-10-25T16:26:00Z" user="LucasLarson" uid="38533" lat="40.8099174" lon="-73.9586733">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="6916346823" visible="true" version="2" changeset="81914014" timestamp="2020-03-08T03:27:07Z" user="LucasLarson" uid="38533" lat="40.8094385" lon="-73.9591421">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6916346847" visible="true" version="3" changeset="117577768" timestamp="2022-02-18T18:50:26Z" user="MxxCon" uid="384667" lat="40.8099528" lon="-73.9587632">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="6919167807" visible="true" version="1" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533" lat="40.8089139" lon="-73.9601418"/>
+ <node id="6919167808" visible="true" version="1" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533" lat="40.8089023" lon="-73.9600067"/>
+ <node id="6919167809" visible="true" version="1" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533" lat="40.8089083" lon="-73.9600323"/>
+ <node id="6919167816" visible="true" version="3" changeset="98836463" timestamp="2021-02-07T01:58:58Z" user="aapeliv" uid="10135657" lat="40.8093715" lon="-73.9603095">
+  <tag k="entrance" v="yes"/>
+  <tag k="level" v="4"/>
+ </node>
+ <node id="6919167819" visible="true" version="1" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533" lat="40.8087550" lon="-73.9602609"/>
+ <node id="6919167824" visible="true" version="2" changeset="98372128" timestamp="2021-01-29T14:50:32Z" user="aapeliv" uid="10135657" lat="40.8095460" lon="-73.9601179">
+  <tag k="addr:housenumber" v="500"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="entrance" v="staircase"/>
+ </node>
+ <node id="6919167828" visible="true" version="2" changeset="76619978" timestamp="2019-11-05T02:27:19Z" user="LucasLarson" uid="38533" lat="40.8088184" lon="-73.9598066">
+  <tag k="door" v="overhead"/>
+ </node>
+ <node id="6925950136" visible="true" version="1" changeset="76321453" timestamp="2019-10-29T02:51:57Z" user="LucasLarson" uid="38533" lat="40.8095211" lon="-73.9592839">
+  <tag k="camera:mount" v="wall"/>
+  <tag k="camera:type" v="dome"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Columbia University"/>
+  <tag k="surveillance:type" v="camera"/>
+ </node>
+ <node id="6927650852" visible="true" version="1" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8096761" lon="-73.9588070"/>
+ <node id="6927650853" visible="true" version="3" changeset="98372128" timestamp="2021-01-29T14:50:32Z" user="aapeliv" uid="10135657" lat="40.8097913" lon="-73.9586122">
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="1239"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="ethiopian;East_African_Cuisine"/>
+  <tag k="name" v="Massawa"/>
+  <tag k="phone" v="+1-212-663-0505"/>
+  <tag k="website" v="https://www.massawanyc.com/"/>
+ </node>
+ <node id="6927650854" visible="true" version="1" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8097457" lon="-73.9586465">
+  <tag k="addr:housenumber" v="1233"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="name" v="Revive Spa &amp; Salon"/>
+  <tag k="shop" v="beauty"/>
+  <tag k="website" v="http://revivespanyc.com"/>
+ </node>
+ <node id="6927650855" visible="true" version="1" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533" lat="40.8096179" lon="-73.9586708"/>
+ <node id="6927650856" visible="true" version="4" changeset="112395742" timestamp="2021-10-12T00:49:13Z" user="Falsernet" uid="13341565" lat="40.8097065" lon="-73.9586754">
+  <tag k="addr:housenumber" v="1235"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="alt_name" v="Dunkin' Donuts"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="Dunkin'"/>
+  <tag k="brand:wikidata" v="Q847743"/>
+  <tag k="brand:wikipedia" v="en:Dunkin' Donuts"/>
+  <tag k="cuisine" v="donut;coffee_shop"/>
+  <tag k="drive_through" v="no"/>
+  <tag k="name" v="Dunkin'"/>
+  <tag k="opening_hours:covid19" v="Mo-Su 07:00-16:00"/>
+  <tag k="takeaway" v="yes"/>
+ </node>
+ <node id="6978479857" visible="true" version="1" changeset="77100779" timestamp="2019-11-15T01:22:08Z" user="LucasLarson" uid="38533" lat="40.8092591" lon="-73.9594860">
+  <tag k="access" v="no"/>
+  <tag k="door" v="yes"/>
+ </node>
+ <node id="7004340248" visible="true" version="3" changeset="117783578" timestamp="2022-02-23T18:58:36Z" user="emelye" uid="14830788" lat="40.8066435" lon="-73.9613561">
+  <tag k="emergency" v="fire_hydrant"/>
+  <tag k="fire_hydrant:position" v="sidewalk"/>
+  <tag k="fire_hydrant:type" v="pillar"/>
+  <tag k="water_source" v="main"/>
+ </node>
+ <node id="7004347450" visible="true" version="4" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8092899" lon="-73.9590828">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7004347451" visible="true" version="1" changeset="77462995" timestamp="2019-11-23T16:27:32Z" user="rcofield" uid="10463782" lat="40.8092431" lon="-73.9592869">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7004347452" visible="true" version="3" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8094006" lon="-73.9593434">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7004347453" visible="true" version="2" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8088146" lon="-73.9596046">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7004354025" visible="true" version="1" changeset="77462497" timestamp="2019-11-23T16:09:06Z" user="elizabethamarsden" uid="10481564" lat="40.8096957" lon="-73.9587139">
+  <tag k="emergency" v="phone"/>
+ </node>
+ <node id="7004365060" visible="true" version="1" changeset="77462397" timestamp="2019-11-23T16:04:57Z" user="elizabethamarsden" uid="10481564" lat="40.8094094" lon="-73.9590378">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="7004365061" visible="true" version="1" changeset="77462397" timestamp="2019-11-23T16:04:57Z" user="elizabethamarsden" uid="10481564" lat="40.8091684" lon="-73.9592098">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="7004371826" visible="true" version="2" changeset="79019106" timestamp="2019-12-30T15:10:53Z" user="opendcc" uid="3249777" lat="40.8098031" lon="-73.9590830">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="7004371827" visible="true" version="1" changeset="77462489" timestamp="2019-11-23T16:08:49Z" user="MrsDLam" uid="10482102" lat="40.8094895" lon="-73.9592462">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="7004371828" visible="true" version="2" changeset="77462993" timestamp="2019-11-23T16:27:27Z" user="MrsDLam" uid="10482102" lat="40.8094976" lon="-73.9592375">
+  <tag k="amenity" v="vending_machine"/>
+  <tag k="vending" v="newspapers"/>
+ </node>
+ <node id="7004396460" visible="true" version="1" changeset="77462993" timestamp="2019-11-23T16:27:27Z" user="MrsDLam" uid="10482102" lat="40.8095082" lon="-73.9592288">
+  <tag k="amenity" v="post_box"/>
+ </node>
+ <node id="7004399460" visible="true" version="1" changeset="77462968" timestamp="2019-11-23T16:27:02Z" user="Mixmapper" uid="10482293" lat="40.8091156" lon="-73.9591697">
+  <tag k="emergency" v="fire_hydrant"/>
+  <tag k="water_source" v="main"/>
+ </node>
+ <node id="7084368670" visible="true" version="1" changeset="78855086" timestamp="2019-12-25T19:37:31Z" user="LucasLarson" uid="38533" lat="40.8089824" lon="-73.9592671"/>
+ <node id="7089732509" visible="true" version="1" changeset="78942027" timestamp="2019-12-27T21:22:08Z" user="LucasLarson" uid="38533" lat="40.8088895" lon="-73.9596800">
+  <tag k="emergency" v="fire_hydrant"/>
+ </node>
+ <node id="7089732511" visible="true" version="1" changeset="78942027" timestamp="2019-12-27T21:22:08Z" user="LucasLarson" uid="38533" lat="40.8089799" lon="-73.9596152">
+  <tag k="emergency" v="fire_hydrant"/>
+ </node>
+ <node id="7099250752" visible="true" version="1" changeset="79074608" timestamp="2020-01-01T06:54:23Z" user="LucasLarson" uid="38533" lat="40.8092744" lon="-73.9594012">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="7168010780" visible="true" version="3" changeset="88267439" timestamp="2020-07-20T22:23:32Z" user="Σεραφειμ" uid="2230609" lat="40.8091488" lon="-73.9587510"/>
+ <node id="7261105756" visible="true" version="1" changeset="81733676" timestamp="2020-03-03T15:15:07Z" user="LucasLarson" uid="38533" lat="40.8093416" lon="-73.9590038"/>
+ <node id="7323390436" visible="true" version="1" changeset="82537189" timestamp="2020-03-23T18:44:36Z" user="LucasLarson" uid="38533" lat="40.8088060" lon="-73.9597760"/>
+ <node id="7323390437" visible="true" version="1" changeset="82537189" timestamp="2020-03-23T18:44:36Z" user="LucasLarson" uid="38533" lat="40.8076109" lon="-73.9606390"/>
+ <node id="7323390439" visible="true" version="2" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8093336" lon="-73.9593956">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="7323390440" visible="true" version="1" changeset="82537189" timestamp="2020-03-23T18:44:36Z" user="LucasLarson" uid="38533" lat="40.8100296" lon="-73.9588912">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="tactile_paving" v="yes"/>
+ </node>
+ <node id="7326861791" visible="true" version="1" changeset="82591394" timestamp="2020-03-24T22:29:29Z" user="LucasLarson" uid="38533" lat="40.8056129" lon="-73.9621007"/>
+ <node id="7326861796" visible="true" version="1" changeset="82591394" timestamp="2020-03-24T22:29:33Z" user="LucasLarson" uid="38533" lat="40.8094200" lon="-73.9586739">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="8375632341" visible="true" version="2" changeset="101023069" timestamp="2021-03-15T05:55:03Z" user="kevinchen1" uid="12848415" lat="40.8097927" lon="-73.9606940">
+  <tag k="barrier" v="gate"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="door" v="gate"/>
+  <tag k="foot" v="yes"/>
+  <tag k="motor_vehicle" v="no"/>
+ </node>
+ <node id="8376008898" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8093553" lon="-73.9590356">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376008899" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8092133" lon="-73.9591394">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376008900" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8091858" lon="-73.9591608"/>
+ <node id="8376008901" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8092006" lon="-73.9591962">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376008902" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8092838" lon="-73.9593844">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376008903" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8092997" lon="-73.9594200"/>
+ <node id="8376008904" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8088791" lon="-73.9584343"/>
+ <node id="8376008905" visible="true" version="2" changeset="98435751" timestamp="2021-01-31T03:47:27Z" user="aapeliv" uid="10135657" lat="40.8085935" lon="-73.9577788"/>
+ <node id="8376008910" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8089637" lon="-73.9593299"/>
+ <node id="8376008911" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8087569" lon="-73.9594737"/>
+ <node id="8376008912" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8084555" lon="-73.9587606"/>
+ <node id="8376008913" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8081400" lon="-73.9580104"/>
+ <node id="8376008914" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8088675" lon="-73.9597316"/>
+ <node id="8376008915" visible="true" version="2" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8088538" lon="-73.9596984">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376008916" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8087743" lon="-73.9595097">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376039717" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8088363" lon="-73.9596547"/>
+ <node id="8376039718" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8087360" lon="-73.9594899">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376039722" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8086878" lon="-73.9597001">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8376039723" visible="true" version="2" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8087133" lon="-73.9597994">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="8376039724" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8087219" lon="-73.9598367"/>
+ <node id="8376039725" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8089747" lon="-73.9593660"/>
+ <node id="8376039726" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8091106" lon="-73.9592660"/>
+ <node id="8376039727" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8092145" lon="-73.9591836"/>
+ <node id="8376039728" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8092212" lon="-73.9591610"/>
+ <node id="8376039729" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8091039" lon="-73.9588903"/>
+ <node id="8376039730" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8089970" lon="-73.9586363"/>
+ <node id="8376039731" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8088299" lon="-73.9582371"/>
+ <node id="8376039732" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8086748" lon="-73.9578771"/>
+ <node id="8376039742" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8084530" lon="-73.9588088"/>
+ <node id="8376039743" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8086404" lon="-73.9592536"/>
+ <node id="8376039744" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8087450" lon="-73.9595048"/>
+ <node id="8376039745" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657" lat="40.8087624" lon="-73.9595132"/>
+ <node id="8379835873" visible="true" version="1" changeset="98435889" timestamp="2021-01-31T04:08:50Z" user="aapeliv" uid="10135657" lat="40.8076505" lon="-73.9606104"/>
+ <node id="8379835874" visible="true" version="1" changeset="98435889" timestamp="2021-01-31T04:08:50Z" user="aapeliv" uid="10135657" lat="40.8076416" lon="-73.9605904">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="8379835875" visible="true" version="1" changeset="98435889" timestamp="2021-01-31T04:08:50Z" user="aapeliv" uid="10135657" lat="40.8075989" lon="-73.9604917">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8379847766" visible="true" version="1" changeset="98435842" timestamp="2021-01-31T04:01:09Z" user="aapeliv" uid="10135657" lat="40.8082425" lon="-73.9601829"/>
+ <node id="8379847767" visible="true" version="1" changeset="98435842" timestamp="2021-01-31T04:01:09Z" user="aapeliv" uid="10135657" lat="40.8082309" lon="-73.9601584">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="8379847768" visible="true" version="1" changeset="98435842" timestamp="2021-01-31T04:01:09Z" user="aapeliv" uid="10135657" lat="40.8081323" lon="-73.9602625"/>
+ <node id="8379847769" visible="true" version="1" changeset="98435842" timestamp="2021-01-31T04:01:09Z" user="aapeliv" uid="10135657" lat="40.8081208" lon="-73.9602393">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="8379847770" visible="true" version="1" changeset="98435842" timestamp="2021-01-31T04:01:09Z" user="aapeliv" uid="10135657" lat="40.8080800" lon="-73.9601437"/>
+ <node id="8379847773" visible="true" version="1" changeset="98435842" timestamp="2021-01-31T04:01:09Z" user="aapeliv" uid="10135657" lat="40.8075609" lon="-73.9605192"/>
+ <node id="8385765472" visible="true" version="1" changeset="98540813" timestamp="2021-02-02T02:04:09Z" user="aapeliv" uid="10135657" lat="40.8062407" lon="-73.9616066">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="8385765475" visible="true" version="1" changeset="98540813" timestamp="2021-02-02T02:04:09Z" user="aapeliv" uid="10135657" lat="40.8061284" lon="-73.9616818">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="8703182175" visible="true" version="3" changeset="112395742" timestamp="2021-10-12T00:49:13Z" user="Falsernet" uid="13341565" lat="40.8095486" lon="-73.9591992">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Amsterdam Avenue &amp; West 120th Street"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="MTA"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="ref" v="803161"/>
+  <tag k="shelter" v="yes"/>
+ </node>
+ <node id="9484039136" visible="true" version="1" changeset="117089562" timestamp="2022-02-06T18:05:52Z" user="aapeliv" uid="10135657" lat="40.8096909" lon="-73.9586826">
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="guard"/>
+  <tag k="surveillance:type" v="guard"/>
+ </node>
+ <node id="9518259680" visible="true" version="1" changeset="117587656" timestamp="2022-02-19T00:50:02Z" user="aapeliv" uid="10135657" lat="40.8105546" lon="-73.9617919"/>
+ <node id="9518259681" visible="true" version="1" changeset="117587656" timestamp="2022-02-19T00:50:02Z" user="aapeliv" uid="10135657" lat="40.8094919" lon="-73.9592737"/>
+ <node id="9518268731" visible="true" version="1" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657" lat="40.8103621" lon="-73.9619344"/>
+ <node id="9518268732" visible="true" version="1" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657" lat="40.8102340" lon="-73.9616340"/>
+ <node id="9518268733" visible="true" version="1" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657" lat="40.8098275" lon="-73.9606721"/>
+ <node id="9518268734" visible="true" version="1" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657" lat="40.8095858" lon="-73.9600898"/>
+ <node id="9518268740" visible="true" version="2" changeset="117614006" timestamp="2022-02-19T17:50:13Z" user="aapeliv" uid="10135657" lat="40.8103927" lon="-73.9619130">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="9518268741" visible="true" version="2" changeset="117614006" timestamp="2022-02-19T17:50:13Z" user="aapeliv" uid="10135657" lat="40.8103769" lon="-73.9619704">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="lowered"/>
+ </node>
+ <node id="9518268743" visible="true" version="1" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657" lat="40.8100118" lon="-73.9589039"/>
+ <node id="9518278906" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8085000" lon="-73.9599600"/>
+ <node id="9518278907" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8093002" lon="-73.9593745"/>
+ <node id="9518278908" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8093199" lon="-73.9593774"/>
+ <node id="9518278909" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8097594" lon="-73.9604064"/>
+ <node id="9518278910" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8103750" lon="-73.9618799"/>
+ <node id="9518278911" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8104004" lon="-73.9619386"/>
+ <node id="9518278912" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8103935" lon="-73.9619600"/>
+ <node id="9518278913" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8099401" lon="-73.9622821"/>
+ <node id="9518278914" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8098329" lon="-73.9623589"/>
+ <node id="9518278915" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8093070" lon="-73.9627401"/>
+ <node id="9518278916" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8091904" lon="-73.9628246"/>
+ <node id="9518281817" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8087845" lon="-73.9631359"/>
+ <node id="9518281818" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8080487" lon="-73.9636754"/>
+ <node id="9518281819" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8079599" lon="-73.9637388"/>
+ <node id="9518281820" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8078653" lon="-73.9638091"/>
+ <node id="9518281821" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8073343" lon="-73.9641954"/>
+ <node id="9518281822" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8072239" lon="-73.9642810"/>
+ <node id="9518281823" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8067163" lon="-73.9646326"/>
+ <node id="9518281824" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8067042" lon="-73.9646408"/>
+ <node id="9518281825" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8066949" lon="-73.9646435"/>
+ <node id="9518281826" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8066838" lon="-73.9646367"/>
+ <node id="9518281827" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8066764" lon="-73.9646226"/>
+ <node id="9518281828" visible="true" version="2" changeset="117783748" timestamp="2022-02-23T19:07:28Z" user="emelye" uid="14830788" lat="40.8063500" lon="-73.9638549">
+  <tag k="barrier" v="kerb"/>
+  <tag k="kerb" v="raised"/>
+ </node>
+ <node id="9518281829" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8059839" lon="-73.9629807"/>
+ <node id="9518281830" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8059341" lon="-73.9628608"/>
+ <node id="9518281831" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8056172" lon="-73.9621133"/>
+ <node id="9518281832" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8056147" lon="-73.9620764"/>
+ <node id="9518281833" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8056225" lon="-73.9620628"/>
+ <node id="9518281834" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8056333" lon="-73.9620512"/>
+ <node id="9518281835" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8067826" lon="-73.9612158"/>
+ <node id="9518281836" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8068720" lon="-73.9611516"/>
+ <node id="9518281837" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8069592" lon="-73.9610864"/>
+ <node id="9518281838" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657" lat="40.8071300" lon="-73.9609613"/>
+ <node id="9520170421" visible="true" version="1" changeset="117614006" timestamp="2022-02-19T17:50:13Z" user="aapeliv" uid="10135657" lat="40.8105573" lon="-73.9618276"/>
+ <way id="165893413" visible="true" version="11" changeset="98435842" timestamp="2021-01-31T04:01:09Z" user="aapeliv" uid="10135657">
+  <nd ref="3579432160"/>
+  <nd ref="6791440545"/>
+  <nd ref="7168010780"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes:backward" v="1"/>
+  <tag k="lanes:forward" v="1"/>
+  <tag k="name" v="West 120th Street"/>
+  <tag k="name_1" v="West 120 Street"/>
+  <tag k="oneway" v="no"/>
+  <tag k="sidewalk" v="separate"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="120th"/>
+  <tag k="tiger:name_base_1" v="120"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:name_direction_prefix_1" v="W"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="10027"/>
+  <tag k="tiger:zip_right" v="10027"/>
+ </way>
+ <way id="196116971" visible="true" version="9" changeset="108629052" timestamp="2021-07-26T13:52:18Z" user="BMACS001" uid="8406312">
+  <nd ref="1504153626"/>
+  <nd ref="6781692070"/>
+  <nd ref="6916346823"/>
+  <nd ref="2133873543"/>
+  <nd ref="6916346847"/>
+  <nd ref="3579432161"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Amsterdam Avenue"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Amsterdam"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="wikidata" v="Q130388"/>
+  <tag k="wikipedia" v="en:Tenth Avenue (Manhattan)"/>
+ </way>
+ <way id="196117064" visible="true" version="14" changeset="117591089" timestamp="2022-02-19T04:59:48Z" user="MxxCon" uid="384667">
+  <nd ref="1504153626"/>
+  <nd ref="7004347452"/>
+  <nd ref="3579432163"/>
+  <nd ref="2340960702"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="West 120th Street"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="120th"/>
+  <tag k="tiger:name_base_1" v="120"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:name_direction_prefix_1" v="W"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="10027"/>
+  <tag k="tiger:zip_right" v="10027"/>
+ </way>
+ <way id="271916929" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:32Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="2768439035"/>
+  <nd ref="2768439038"/>
+  <nd ref="2768439042"/>
+  <nd ref="2768439110"/>
+  <nd ref="2768439116"/>
+  <nd ref="2768439112"/>
+  <nd ref="2768439136"/>
+  <nd ref="2768439124"/>
+  <nd ref="2768439132"/>
+  <nd ref="2768439120"/>
+  <nd ref="2768439108"/>
+  <nd ref="2768439076"/>
+  <nd ref="2768439049"/>
+  <nd ref="2768439035"/>
+  <tag k="addr:housenumber" v="503"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="7.2"/>
+  <tag k="nycdoitt:bin" v="1085355"/>
+ </way>
+ <way id="271917055" visible="true" version="1" changeset="21504068" timestamp="2014-04-04T21:27:36Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="2768439143"/>
+  <nd ref="2768439151"/>
+  <nd ref="2768439128"/>
+  <nd ref="2768439126"/>
+  <nd ref="2768439110"/>
+  <nd ref="2768439042"/>
+  <nd ref="2768439048"/>
+  <nd ref="2768439045"/>
+  <nd ref="2768439064"/>
+  <nd ref="2768439068"/>
+  <nd ref="2768439145"/>
+  <nd ref="2768439140"/>
+  <nd ref="2768439138"/>
+  <nd ref="2768439142"/>
+  <nd ref="2768439147"/>
+  <nd ref="2768439161"/>
+  <nd ref="2768439159"/>
+  <nd ref="2768439163"/>
+  <nd ref="2768439171"/>
+  <nd ref="2768439177"/>
+  <nd ref="2768439175"/>
+  <nd ref="2768439185"/>
+  <nd ref="2768439287"/>
+  <nd ref="2768439283"/>
+  <nd ref="2768439297"/>
+  <nd ref="2768439317"/>
+  <nd ref="2768439305"/>
+  <nd ref="2768439285"/>
+  <nd ref="2768439264"/>
+  <nd ref="2768439256"/>
+  <nd ref="2768439169"/>
+  <nd ref="2768439143"/>
+  <tag k="addr:housenumber" v="515"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="43.0"/>
+  <tag k="name" v="Russell"/>
+  <tag k="nycdoitt:bin" v="1088703"/>
+ </way>
+ <way id="271917086" visible="true" version="4" changeset="77462489" timestamp="2019-11-23T16:08:49Z" user="MrsDLam" uid="10482102">
+  <nd ref="2768439049"/>
+  <nd ref="2768439037"/>
+  <nd ref="2768439062"/>
+  <nd ref="2768439076"/>
+  <nd ref="2768439108"/>
+  <nd ref="2768439090"/>
+  <nd ref="2768439122"/>
+  <nd ref="2768439155"/>
+  <nd ref="2768439187"/>
+  <nd ref="2768439165"/>
+  <nd ref="2768439192"/>
+  <nd ref="2768439246"/>
+  <nd ref="2768439313"/>
+  <nd ref="2768439190"/>
+  <nd ref="6814582556"/>
+  <nd ref="2768438936"/>
+  <nd ref="7004371826"/>
+  <nd ref="2768438934"/>
+  <nd ref="6925950136"/>
+  <nd ref="2768439027"/>
+  <nd ref="2768439035"/>
+  <nd ref="2768439049"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="44.1"/>
+  <tag k="name" v="Whittier"/>
+  <tag k="nycdoitt:bin" v="1059647"/>
+  <tag k="start_date" v="1900"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="271921486" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:55Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="2768450445"/>
+  <nd ref="2768450460"/>
+  <nd ref="2768450453"/>
+  <nd ref="2768450438"/>
+  <nd ref="2768450433"/>
+  <nd ref="2768450450"/>
+  <nd ref="2768450444"/>
+  <nd ref="2768450432"/>
+  <nd ref="2768450435"/>
+  <nd ref="2768450431"/>
+  <nd ref="2768450430"/>
+  <nd ref="2768450409"/>
+  <nd ref="2768450422"/>
+  <nd ref="2768450426"/>
+  <nd ref="2768450428"/>
+  <nd ref="2768450425"/>
+  <nd ref="2768450443"/>
+  <nd ref="2768450457"/>
+  <nd ref="2768450458"/>
+  <nd ref="2768450461"/>
+  <nd ref="2768450464"/>
+  <nd ref="2768450472"/>
+  <nd ref="2768450465"/>
+  <nd ref="2768450448"/>
+  <nd ref="2768450445"/>
+  <tag k="addr:housenumber" v="414"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="19.5"/>
+  <tag k="nycdoitt:bin" v="1059513"/>
+ </way>
+ <way id="271921498" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:56Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="2768450607"/>
+  <nd ref="2768450623"/>
+  <nd ref="2768450617"/>
+  <nd ref="2768450590"/>
+  <nd ref="2768450566"/>
+  <nd ref="2768450554"/>
+  <nd ref="2768450515"/>
+  <nd ref="2768450572"/>
+  <nd ref="2768450627"/>
+  <nd ref="2768450609"/>
+  <nd ref="2768450613"/>
+  <nd ref="2768450637"/>
+  <nd ref="2768450645"/>
+  <nd ref="2768450667"/>
+  <nd ref="2768450693"/>
+  <nd ref="2768450641"/>
+  <nd ref="2768450607"/>
+  <tag k="addr:housenumber" v="417"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="22.6"/>
+  <tag k="nycdoitt:bin" v="1059516"/>
+ </way>
+ <way id="271921513" visible="true" version="5" changeset="82591394" timestamp="2020-03-24T22:30:07Z" user="LucasLarson" uid="38533">
+  <nd ref="2768450668"/>
+  <nd ref="2768450665"/>
+  <nd ref="2768450595"/>
+  <nd ref="2768450625"/>
+  <nd ref="2768450676"/>
+  <nd ref="2768450671"/>
+  <nd ref="2768450684"/>
+  <nd ref="7326861796"/>
+  <nd ref="2768450699"/>
+  <nd ref="2768450691"/>
+  <nd ref="2768450689"/>
+  <nd ref="2768450633"/>
+  <nd ref="2768450683"/>
+  <nd ref="2768450720"/>
+  <nd ref="2768450705"/>
+  <nd ref="2768450710"/>
+  <nd ref="2768450703"/>
+  <nd ref="2768450714"/>
+  <nd ref="2768450718"/>
+  <nd ref="2768450722"/>
+  <nd ref="2768450736"/>
+  <nd ref="6796146796"/>
+  <nd ref="6796146795"/>
+  <nd ref="2768450787"/>
+  <nd ref="2768450775"/>
+  <nd ref="2768450753"/>
+  <nd ref="2768450751"/>
+  <nd ref="2768450712"/>
+  <nd ref="2768450668"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="1225"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="39.7"/>
+  <tag k="nycdoitt:bin" v="1059515"/>
+ </way>
+ <way id="271921517" visible="true" version="1" changeset="21504153" timestamp="2014-04-04T21:32:57Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="2768450463"/>
+  <nd ref="2768450459"/>
+  <nd ref="2768450462"/>
+  <nd ref="2768450446"/>
+  <nd ref="2768450437"/>
+  <nd ref="2768450436"/>
+  <nd ref="2768450416"/>
+  <nd ref="2768450421"/>
+  <nd ref="2768450439"/>
+  <nd ref="2768450442"/>
+  <nd ref="2768450427"/>
+  <nd ref="2768450434"/>
+  <nd ref="2768450449"/>
+  <nd ref="2768450452"/>
+  <nd ref="2768450440"/>
+  <nd ref="2768450447"/>
+  <nd ref="2768450474"/>
+  <nd ref="2768450466"/>
+  <nd ref="2768450463"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="35.5"/>
+  <tag k="nycdoitt:bin" v="1059510"/>
+ </way>
+ <way id="271921519" visible="true" version="4" changeset="78855086" timestamp="2019-12-25T19:37:31Z" user="LucasLarson" uid="38533">
+  <nd ref="2768450474"/>
+  <nd ref="7084368670"/>
+  <nd ref="2768450539"/>
+  <nd ref="2768450508"/>
+  <nd ref="2768450484"/>
+  <nd ref="2768450478"/>
+  <nd ref="2768450497"/>
+  <nd ref="2768450489"/>
+  <nd ref="2768450471"/>
+  <nd ref="2768450467"/>
+  <nd ref="2768450480"/>
+  <nd ref="2768450475"/>
+  <nd ref="2768450454"/>
+  <nd ref="2768450456"/>
+  <nd ref="2768450451"/>
+  <nd ref="2768450468"/>
+  <nd ref="2768450469"/>
+  <nd ref="2768450473"/>
+  <nd ref="2768450466"/>
+  <nd ref="2768450474"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="34.5"/>
+  <tag k="name" v="The Poinsettia"/>
+  <tag k="nycdoitt:bin" v="1059514"/>
+ </way>
+ <way id="271921521" visible="true" version="4" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533">
+  <nd ref="2768450761"/>
+  <nd ref="2768450196"/>
+  <nd ref="2768450800"/>
+  <nd ref="2768450168"/>
+  <nd ref="2768450169"/>
+  <nd ref="2768450170"/>
+  <nd ref="2768450805"/>
+  <nd ref="2768450802"/>
+  <nd ref="2768450761"/>
+  <tag k="addr:housenumber" v="1235"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="building" v="dormitory"/>
+  <tag k="building:levels" v="16"/>
+  <tag k="ele" v="30"/>
+  <tag k="gnis:county_name" v="New York"/>
+  <tag k="gnis:feature_id" v="2079075"/>
+  <tag k="gnis:import_uuid" v="57871b70-0100-4405-bb30-88b2e001a944"/>
+  <tag k="gnis:reviewed" v="no"/>
+  <tag k="height" v="43.3"/>
+  <tag k="name" v="Plimpton Hall"/>
+  <tag k="nycdoitt:bin" v="1059521"/>
+  <tag k="operator" v="Barnard College"/>
+  <tag k="source" v="USGS Geonames"/>
+  <tag k="start_date" v="1968"/>
+ </way>
+ <way id="274995726" visible="true" version="5" changeset="105326229" timestamp="2021-05-26T04:48:36Z" user="pantus" uid="11676208">
+  <nd ref="2796609903"/>
+  <nd ref="2796609906"/>
+  <nd ref="6919167808"/>
+  <nd ref="2796609916"/>
+  <nd ref="2796609928"/>
+  <nd ref="2796609940"/>
+  <nd ref="2796609943"/>
+  <nd ref="2796609951"/>
+  <nd ref="5157319258"/>
+  <nd ref="5157319259"/>
+  <nd ref="2796609930"/>
+  <nd ref="6919167828"/>
+  <nd ref="5157312572"/>
+  <nd ref="2796609903"/>
+  <tag k="addr:housenumber" v="1202"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:street" v="Amsterdam Avenue"/>
+  <tag k="building" v="university"/>
+  <tag k="height" v="18.7"/>
+  <tag k="name" v="Computer Science"/>
+  <tag k="nycdoitt:bin" v="1084475"/>
+ </way>
+ <way id="274995762" visible="true" version="8" changeset="105326229" timestamp="2021-05-26T04:48:36Z" user="pantus" uid="11676208">
+  <nd ref="2796609989"/>
+  <nd ref="2796610018"/>
+  <nd ref="2796610023"/>
+  <nd ref="2796610027"/>
+  <nd ref="2796610024"/>
+  <nd ref="2796610033"/>
+  <nd ref="6919167824"/>
+  <nd ref="6814582549"/>
+  <nd ref="2796609949"/>
+  <nd ref="6814582558"/>
+  <nd ref="6978479857"/>
+  <nd ref="2796609930"/>
+  <nd ref="5157319259"/>
+  <nd ref="5157319258"/>
+  <nd ref="2796609951"/>
+  <nd ref="2796609963"/>
+  <nd ref="6919167816"/>
+  <nd ref="2796609989"/>
+  <tag k="addr:city" v="New York"/>
+  <tag k="addr:housenumber" v="500"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="West 120th Street"/>
+  <tag k="alt_name" v="Seeley Wintersmith Mudd Hall"/>
+  <tag k="building" v="university"/>
+  <tag k="ele" v="35"/>
+  <tag k="gnis:county_name" v="New York"/>
+  <tag k="gnis:feature_id" v="2079077"/>
+  <tag k="gnis:import_uuid" v="57871b70-0100-4405-bb30-88b2e001a944"/>
+  <tag k="gnis:reviewed" v="no"/>
+  <tag k="height" v="69.5"/>
+  <tag k="name" v="Mudd Hall"/>
+  <tag k="nycdoitt:bin" v="1084474"/>
+  <tag k="source" v="USGS Geonames"/>
+ </way>
+ <way id="327917960" visible="true" version="13" changeset="108629052" timestamp="2021-07-26T13:52:18Z" user="BMACS001" uid="8406312">
+  <nd ref="8379847773"/>
+  <nd ref="8379835875"/>
+  <nd ref="8379847770"/>
+  <nd ref="42442577"/>
+  <nd ref="2308955220"/>
+  <nd ref="8376039722"/>
+  <nd ref="42442578"/>
+  <nd ref="7004347453"/>
+  <nd ref="7004347451"/>
+  <nd ref="1504153626"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="hgv" v="local"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Amsterdam Avenue"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="Amsterdam"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="wikidata" v="Q130388"/>
+  <tag k="wikipedia" v="en:Tenth Avenue (Manhattan)"/>
+ </way>
+ <way id="483509921" visible="true" version="1" changeset="47269392" timestamp="2017-03-29T18:29:31Z" user="dsbelfield" uid="5580377">
+  <nd ref="2768450471"/>
+  <nd ref="2768450489"/>
+  <nd ref="2768450480"/>
+  <nd ref="2768450467"/>
+  <nd ref="2768450471"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Poinsettia Community Garden"/>
+ </way>
+ <way id="483509922" visible="true" version="4" changeset="81600078" timestamp="2020-02-28T17:02:57Z" user="LucasLarson" uid="38533">
+  <nd ref="2768450474"/>
+  <nd ref="7084368670"/>
+  <nd ref="2768450539"/>
+  <nd ref="2768450508"/>
+  <nd ref="2768450484"/>
+  <nd ref="2768450473"/>
+  <nd ref="2768450466"/>
+  <nd ref="2768450474"/>
+  <tag k="landuse" v="commercial"/>
+ </way>
+ <way id="483509923" visible="true" version="2" changeset="75041185" timestamp="2019-09-28T14:15:25Z" user="LucasLarson" uid="38533">
+  <nd ref="2768450497"/>
+  <nd ref="2768450434"/>
+  <nd ref="2768450416"/>
+  <nd ref="2768450436"/>
+  <nd ref="2768450454"/>
+  <nd ref="2768450475"/>
+  <nd ref="2768450480"/>
+  <nd ref="2768450467"/>
+  <nd ref="2768450471"/>
+  <nd ref="2768450489"/>
+  <nd ref="2768450497"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="483509924" visible="true" version="2" changeset="81600078" timestamp="2020-02-28T17:02:57Z" user="LucasLarson" uid="38533">
+  <nd ref="2768450447"/>
+  <nd ref="2768450474"/>
+  <nd ref="2768450466"/>
+  <nd ref="2768450463"/>
+  <nd ref="2768450452"/>
+  <nd ref="2768450440"/>
+  <nd ref="2768450447"/>
+  <tag k="landuse" v="retail"/>
+ </way>
+ <way id="483509925" visible="true" version="1" changeset="47269392" timestamp="2017-03-29T18:29:31Z" user="dsbelfield" uid="5580377">
+  <nd ref="2768450484"/>
+  <nd ref="2768450508"/>
+  <nd ref="2768450497"/>
+  <nd ref="2768450478"/>
+  <nd ref="2768450484"/>
+  <tag k="landuse" v="recreation_ground"/>
+  <tag k="name" v="Poinsettia Commons"/>
+ </way>
+ <way id="483509929" visible="true" version="3" changeset="75041185" timestamp="2019-09-28T14:15:25Z" user="LucasLarson" uid="38533">
+  <nd ref="2768450472"/>
+  <nd ref="6832782242"/>
+  <nd ref="2768450475"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="483509930" visible="true" version="3" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533">
+  <nd ref="2796609928"/>
+  <nd ref="2796609916"/>
+  <nd ref="6919167808"/>
+  <nd ref="2796609906"/>
+  <nd ref="2796609765"/>
+  <nd ref="2796609887"/>
+  <nd ref="5157312571"/>
+  <nd ref="2796609928"/>
+  <tag k="landuse" v="recreation_ground"/>
+  <tag k="name" v="Engineering Commons"/>
+ </way>
+ <way id="531272222" visible="true" version="2" changeset="53245556" timestamp="2017-10-25T19:55:29Z" user="kshi" uid="5187461">
+  <nd ref="5157319258"/>
+  <nd ref="5157319259"/>
+  <nd ref="5157319260"/>
+  <nd ref="5157319261"/>
+  <nd ref="5157319258"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="CS Garden"/>
+ </way>
+ <way id="723008688" visible="true" version="3" changeset="77462489" timestamp="2019-11-23T16:08:49Z" user="MrsDLam" uid="10482102">
+  <nd ref="2768439309"/>
+  <nd ref="2768439241"/>
+  <nd ref="2768439163"/>
+  <nd ref="2768439159"/>
+  <nd ref="2768439142"/>
+  <nd ref="2768439138"/>
+  <nd ref="2768439038"/>
+  <nd ref="2768439035"/>
+  <nd ref="2768439027"/>
+  <nd ref="2768438934"/>
+  <nd ref="7004371826"/>
+  <nd ref="2768438936"/>
+  <nd ref="6814582556"/>
+  <nd ref="2768439190"/>
+  <nd ref="2768439313"/>
+  <nd ref="2768439337"/>
+  <nd ref="2768439494"/>
+  <nd ref="2768439523"/>
+  <nd ref="2768439628"/>
+  <nd ref="2768439744"/>
+  <nd ref="2768439801"/>
+  <nd ref="2768439539"/>
+  <nd ref="2768439469"/>
+  <nd ref="2768439398"/>
+  <nd ref="2768439309"/>
+  <tag k="amenity" v="university"/>
+  <tag k="name" v="Teachers College"/>
+  <tag k="wheelchair" v="yes"/>
+  <tag k="wikidata" v="Q7691246"/>
+  <tag k="wikipedia" v="en:Teachers College, Columbia University"/>
+ </way>
+ <way id="724159840" visible="true" version="7" changeset="81600078" timestamp="2020-02-28T17:02:57Z" user="LucasLarson" uid="38533">
+  <nd ref="6816455650"/>
+  <nd ref="6927650852"/>
+  <nd ref="6816455655"/>
+  <nd ref="6839143883"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="727357585" visible="true" version="3" changeset="78392794" timestamp="2019-12-13T20:56:47Z" user="LucasLarson" uid="38533">
+  <nd ref="6839143878"/>
+  <nd ref="6791440528"/>
+  <nd ref="6816455650"/>
+  <nd ref="6839169601"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="730053742" visible="true" version="4" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008898"/>
+  <nd ref="7261105756"/>
+  <nd ref="6839169609"/>
+  <nd ref="6839143869"/>
+  <nd ref="6839169598"/>
+  <nd ref="6839143877"/>
+  <nd ref="6839169607"/>
+  <nd ref="6839169587"/>
+  <nd ref="6839143866"/>
+  <nd ref="6839169595"/>
+  <nd ref="6839143874"/>
+  <nd ref="6839143878"/>
+  <nd ref="6839143884"/>
+  <tag k="barrier" v="kerb"/>
+ </way>
+ <way id="732228095" visible="true" version="13" changeset="118189436" timestamp="2022-03-07T09:38:45Z" user="XD346" uid="4892967">
+  <nd ref="6856323626"/>
+  <nd ref="6856323625"/>
+  <nd ref="6856323624"/>
+  <nd ref="7004340248"/>
+  <nd ref="6856323623"/>
+  <nd ref="6856323622"/>
+  <nd ref="6856323621"/>
+  <nd ref="6856323620"/>
+  <nd ref="6856323619"/>
+  <nd ref="8375632341"/>
+  <nd ref="2308955225"/>
+  <nd ref="6856323626"/>
+  <tag k="addr:city" v="Manhattan"/>
+  <tag k="addr:postcode" v="10027"/>
+  <tag k="addr:state" v="NY"/>
+  <tag k="addr:street" v="116th Street"/>
+  <tag k="alt_name" v="Columbia University in the City of New York"/>
+  <tag k="amenity" v="university"/>
+  <tag k="name" v="Columbia University"/>
+  <tag k="name:es" v="Universidad de Columbia"/>
+  <tag k="name:ja" v="コロンビア大学"/>
+  <tag k="name:zh" v="哥伦比亚大学"/>
+  <tag k="name:zh-Hans" v="哥伦比亚大学"/>
+  <tag k="name:zh-Hant" v="哥倫比亞大學"/>
+  <tag k="website" v="https://www.columbia.edu"/>
+  <tag k="wikidata" v="Q49088"/>
+  <tag k="wikipedia" v="en:Columbia University"/>
+ </way>
+ <way id="735320277" visible="true" version="3" changeset="117614006" timestamp="2022-02-19T17:50:13Z" user="aapeliv" uid="10135657">
+  <nd ref="6886957281"/>
+  <nd ref="6887003288"/>
+  <nd ref="6886957279"/>
+  <nd ref="6887003314"/>
+  <nd ref="6887003305"/>
+  <nd ref="6887003296"/>
+  <nd ref="6887003285"/>
+  <nd ref="6887003361"/>
+  <nd ref="6887003352"/>
+  <nd ref="6887003342"/>
+  <nd ref="6887003336"/>
+  <nd ref="6887003329"/>
+  <nd ref="6887003310"/>
+  <nd ref="6887003301"/>
+  <nd ref="6887003344"/>
+  <nd ref="9520170421"/>
+  <nd ref="6887003348"/>
+  <nd ref="6887003339"/>
+  <nd ref="6887003333"/>
+  <nd ref="6887003325"/>
+  <nd ref="6887003317"/>
+  <nd ref="6887003312"/>
+  <nd ref="6887003308"/>
+  <nd ref="6887003324"/>
+  <nd ref="6887003316"/>
+  <nd ref="6887003307"/>
+  <nd ref="6887003297"/>
+  <nd ref="6887003287"/>
+  <nd ref="6886957278"/>
+  <nd ref="6887003353"/>
+  <nd ref="6887003343"/>
+  <nd ref="6887003337"/>
+  <nd ref="6887003331"/>
+  <nd ref="6887003322"/>
+  <nd ref="6887003311"/>
+  <nd ref="6887003303"/>
+  <nd ref="6887003294"/>
+  <nd ref="6886957283"/>
+  <nd ref="6887003359"/>
+  <nd ref="6887003350"/>
+  <nd ref="6887003340"/>
+  <nd ref="6887003334"/>
+  <nd ref="6887003327"/>
+  <nd ref="6887003319"/>
+  <nd ref="6887003309"/>
+  <nd ref="6887003299"/>
+  <nd ref="6887003290"/>
+  <nd ref="7323390440"/>
+  <nd ref="6886957281"/>
+  <tag k="barrier" v="kerb"/>
+ </way>
+ <way id="738603185" visible="true" version="2" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="6839169601"/>
+  <nd ref="6916346823"/>
+  <nd ref="6887003303"/>
+  <tag k="crossing" v="marked"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="738973807" visible="true" version="2" changeset="115277773" timestamp="2021-12-23T02:32:43Z" user="nsripz" uid="10327365">
+  <nd ref="6919167828"/>
+  <nd ref="6919167808"/>
+  <tag k="access" v="private"/>
+  <tag k="access:delivery" v="no"/>
+  <tag k="highway" v="service"/>
+  <tag k="tunnel" v="building_passage"/>
+ </way>
+ <way id="738973808" visible="true" version="1" changeset="76254126" timestamp="2019-10-26T22:36:36Z" user="LucasLarson" uid="38533">
+  <nd ref="6919167808"/>
+  <nd ref="6919167809"/>
+  <nd ref="6919167807"/>
+  <nd ref="6919167819"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="739858418" visible="true" version="1" changeset="76354398" timestamp="2019-10-29T16:01:06Z" user="LucasLarson" uid="38533">
+  <nd ref="6927650852"/>
+  <nd ref="6927650855"/>
+  <nd ref="2768450196"/>
+  <tag k="highway" v="footway"/>
+  <tag k="wheelchair" v="no"/>
+ </way>
+ <way id="767729564" visible="true" version="2" changeset="117591089" timestamp="2022-02-19T04:59:48Z" user="MxxCon" uid="384667">
+  <nd ref="7168010780"/>
+  <nd ref="7004347450"/>
+  <nd ref="1504153626"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes:backward" v="1"/>
+  <tag k="lanes:forward" v="2"/>
+  <tag k="name" v="West 120th Street"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="New York, NY"/>
+  <tag k="tiger:name_base" v="120th"/>
+  <tag k="tiger:name_base_1" v="120"/>
+  <tag k="tiger:name_direction_prefix" v="W"/>
+  <tag k="tiger:name_direction_prefix_1" v="W"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="10027"/>
+  <tag k="tiger:zip_right" v="10027"/>
+ </way>
+ <way id="784001413" visible="true" version="4" changeset="98435889" timestamp="2021-01-31T04:08:50Z" user="aapeliv" uid="10135657">
+  <nd ref="7323390437"/>
+  <nd ref="8379835873"/>
+  <nd ref="8379847768"/>
+  <nd ref="8379847766"/>
+  <nd ref="8376039724"/>
+  <nd ref="7323390436"/>
+  <nd ref="8376008914"/>
+  <nd ref="8376008903"/>
+  <nd ref="7323390439"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="784001415" visible="true" version="2" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="7323390439"/>
+  <nd ref="7004347452"/>
+  <nd ref="6887003316"/>
+  <tag k="crossing" v="marked"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="784001416" visible="true" version="3" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657">
+  <nd ref="6887003316"/>
+  <nd ref="9518259681"/>
+  <nd ref="9518268743"/>
+  <nd ref="7323390440"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685240" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008901"/>
+  <nd ref="7004347451"/>
+  <nd ref="8376008902"/>
+  <tag k="crossing" v="marked"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685241" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="6816455650"/>
+  <nd ref="8376008898"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685242" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="6839169603"/>
+  <nd ref="6839143883"/>
+  <nd ref="6839143863"/>
+  <nd ref="6839169593"/>
+  <nd ref="6839143872"/>
+  <nd ref="6839169602"/>
+  <nd ref="6839143882"/>
+  <nd ref="6916346816"/>
+  <nd ref="6839169612"/>
+  <nd ref="6839169592"/>
+  <nd ref="6839143871"/>
+  <nd ref="6839169601"/>
+  <nd ref="6839143881"/>
+  <nd ref="6839169611"/>
+  <nd ref="6839169590"/>
+  <nd ref="6839169591"/>
+  <nd ref="6839143870"/>
+  <nd ref="6839169600"/>
+  <nd ref="6839143880"/>
+  <nd ref="8376008898"/>
+  <tag k="barrier" v="kerb"/>
+ </way>
+ <way id="901685243" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008898"/>
+  <nd ref="7004347450"/>
+  <nd ref="8376008899"/>
+  <tag k="crossing" v="marked"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685244" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008899"/>
+  <nd ref="8376008900"/>
+  <nd ref="8376008901"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685245" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008902"/>
+  <nd ref="8376008903"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685246" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008900"/>
+  <nd ref="8376008904"/>
+  <nd ref="8376008905"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685250" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008900"/>
+  <nd ref="8376008910"/>
+  <nd ref="8376008911"/>
+  <nd ref="8376008912"/>
+  <nd ref="8376008913"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685251" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008915"/>
+  <nd ref="8376039717"/>
+  <nd ref="7004347453"/>
+  <nd ref="8376008916"/>
+  <tag k="crossing" v="marked"/>
+  <tag k="footway" v="crossing"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685252" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376008914"/>
+  <nd ref="8376008915"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="901685259" visible="true" version="1" changeset="98379074" timestamp="2021-01-29T17:15:11Z" user="aapeliv" uid="10135657">
+  <nd ref="8376039732"/>
+  <nd ref="8376039731"/>
+  <nd ref="8376039730"/>
+  <nd ref="8376039729"/>
+  <nd ref="8376008899"/>
+  <nd ref="8376039728"/>
+  <nd ref="8376039727"/>
+  <nd ref="8376008901"/>
+  <nd ref="8376039726"/>
+  <nd ref="8376039725"/>
+  <nd ref="8376008916"/>
+  <nd ref="8376039745"/>
+  <nd ref="8376039744"/>
+  <nd ref="8376039718"/>
+  <nd ref="8376039743"/>
+  <nd ref="8376039742"/>
+  <tag k="barrier" v="kerb"/>
+ </way>
+ <way id="1033099756" visible="true" version="1" changeset="117587656" timestamp="2022-02-19T00:50:02Z" user="aapeliv" uid="10135657">
+  <nd ref="6887003344"/>
+  <nd ref="9518259680"/>
+  <nd ref="9518259681"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1033101551" visible="true" version="1" changeset="117588015" timestamp="2022-02-19T01:13:55Z" user="aapeliv" uid="10135657">
+  <nd ref="9518268731"/>
+  <nd ref="9518268732"/>
+  <nd ref="9518268733"/>
+  <nd ref="9518268734"/>
+  <nd ref="8376008903"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1033102174" visible="true" version="1" changeset="117588086" timestamp="2022-02-19T01:20:04Z" user="aapeliv" uid="10135657">
+  <nd ref="8379847769"/>
+  <nd ref="8379847767"/>
+  <nd ref="9518278906"/>
+  <nd ref="8376039723"/>
+  <nd ref="8376008915"/>
+  <nd ref="8376008902"/>
+  <nd ref="9518278907"/>
+  <nd ref="9518278908"/>
+  <nd ref="7323390439"/>
+  <nd ref="9518278909"/>
+  <nd ref="9518278910"/>
+  <nd ref="9518268740"/>
+  <nd ref="9518278911"/>
+  <nd ref="9518278912"/>
+  <nd ref="9518268741"/>
+  <nd ref="9518278913"/>
+  <nd ref="9518278914"/>
+  <nd ref="9518278915"/>
+  <nd ref="9518278916"/>
+  <nd ref="9518281817"/>
+  <nd ref="9518281818"/>
+  <nd ref="9518281819"/>
+  <nd ref="9518281820"/>
+  <nd ref="9518281821"/>
+  <nd ref="9518281822"/>
+  <nd ref="9518281823"/>
+  <nd ref="9518281824"/>
+  <nd ref="9518281825"/>
+  <nd ref="9518281826"/>
+  <nd ref="9518281827"/>
+  <nd ref="9518281828"/>
+  <nd ref="9518281829"/>
+  <nd ref="9518281830"/>
+  <nd ref="9518281831"/>
+  <nd ref="7326861791"/>
+  <nd ref="9518281832"/>
+  <nd ref="9518281833"/>
+  <nd ref="9518281834"/>
+  <nd ref="8385765475"/>
+  <nd ref="8385765472"/>
+  <nd ref="9518281835"/>
+  <nd ref="9518281836"/>
+  <nd ref="9518281837"/>
+  <nd ref="9518281838"/>
+  <nd ref="8379835874"/>
+  <nd ref="8379847769"/>
+  <tag k="barrier" v="kerb"/>
+ </way>
+ <relation id="2636370" visible="true" version="99" changeset="126677551" timestamp="2022-09-27T03:32:11Z" user="osmkarl" uid="88339">
+  <member type="node" ref="3248774686" role="platform"/>
+  <member type="node" ref="3269834181" role="platform"/>
+  <member type="node" ref="3273383616" role="platform"/>
+  <member type="node" ref="3913754635" role="platform"/>
+  <member type="node" ref="3913756003" role="platform"/>
+  <member type="node" ref="3913758293" role="platform"/>
+  <member type="way" ref="195834894" role=""/>
+  <member type="way" ref="196117028" role=""/>
+  <member type="way" ref="5671261" role=""/>
+  <member type="way" ref="1043341295" role=""/>
+  <member type="way" ref="196117075" role=""/>
+  <member type="way" ref="589494594" role=""/>
+  <member type="way" ref="22909152" role=""/>
+  <member type="way" ref="485556247" role=""/>
+  <member type="way" ref="485556246" role=""/>
+  <member type="way" ref="194923800" role=""/>
+  <member type="way" ref="127693200" role=""/>
+  <member type="way" ref="226041041" role=""/>
+  <member type="way" ref="226041042" role=""/>
+  <member type="way" ref="46490540" role=""/>
+  <member type="way" ref="939613202" role=""/>
+  <member type="way" ref="396444293" role=""/>
+  <member type="way" ref="396444295" role=""/>
+  <member type="way" ref="1021481768" role=""/>
+  <member type="way" ref="1021481767" role=""/>
+  <member type="way" ref="1029634435" role=""/>
+  <member type="way" ref="767990686" role=""/>
+  <member type="way" ref="1029634436" role=""/>
+  <member type="way" ref="589494595" role=""/>
+  <member type="way" ref="496986803" role=""/>
+  <member type="way" ref="1041012063" role=""/>
+  <member type="way" ref="1041012064" role=""/>
+  <member type="way" ref="954520389" role=""/>
+  <member type="way" ref="945460473" role=""/>
+  <member type="way" ref="460585328" role=""/>
+  <member type="way" ref="814278017" role=""/>
+  <member type="way" ref="808190587" role=""/>
+  <member type="way" ref="601733867" role=""/>
+  <member type="way" ref="808190579" role=""/>
+  <member type="way" ref="808190588" role=""/>
+  <member type="way" ref="195743301" role=""/>
+  <member type="way" ref="808190577" role=""/>
+  <member type="way" ref="808190584" role=""/>
+  <member type="way" ref="808190576" role=""/>
+  <member type="way" ref="195743297" role=""/>
+  <member type="way" ref="808190578" role=""/>
+  <member type="way" ref="1052660934" role=""/>
+  <member type="way" ref="1052660935" role=""/>
+  <member type="way" ref="5671056" role=""/>
+  <member type="way" ref="1052660937" role=""/>
+  <member type="way" ref="809013917" role=""/>
+  <member type="way" ref="809013918" role=""/>
+  <member type="way" ref="1023818802" role=""/>
+  <member type="way" ref="808055022" role=""/>
+  <member type="way" ref="808055023" role=""/>
+  <member type="way" ref="1041021164" role=""/>
+  <member type="way" ref="705223737" role=""/>
+  <member type="way" ref="993368838" role=""/>
+  <member type="way" ref="993368836" role=""/>
+  <member type="way" ref="464988509" role=""/>
+  <member type="way" ref="114654203" role=""/>
+  <member type="way" ref="195743131" role=""/>
+  <member type="way" ref="895398380" role=""/>
+  <member type="way" ref="195743136" role=""/>
+  <member type="way" ref="895398381" role=""/>
+  <member type="way" ref="895398382" role=""/>
+  <member type="way" ref="895398383" role=""/>
+  <member type="way" ref="895398384" role=""/>
+  <member type="way" ref="895398385" role=""/>
+  <member type="way" ref="195743132" role=""/>
+  <member type="way" ref="1025731514" role=""/>
+  <member type="way" ref="195743133" role=""/>
+  <member type="way" ref="955259023" role=""/>
+  <member type="way" ref="740085321" role=""/>
+  <member type="way" ref="1025731515" role=""/>
+  <member type="way" ref="954503820" role=""/>
+  <member type="way" ref="1025731516" role=""/>
+  <member type="way" ref="1025731517" role=""/>
+  <member type="way" ref="1025731518" role=""/>
+  <member type="way" ref="1025731519" role=""/>
+  <member type="way" ref="1025731520" role=""/>
+  <member type="way" ref="1025731521" role=""/>
+  <member type="way" ref="1025731522" role=""/>
+  <member type="way" ref="1025731523" role=""/>
+  <member type="way" ref="781311948" role=""/>
+  <member type="way" ref="1025731524" role=""/>
+  <member type="way" ref="439805285" role=""/>
+  <member type="way" ref="1025731525" role=""/>
+  <member type="way" ref="1025731526" role=""/>
+  <member type="way" ref="1025731527" role=""/>
+  <member type="way" ref="1025731528" role=""/>
+  <member type="way" ref="1025731529" role=""/>
+  <member type="way" ref="1025731530" role=""/>
+  <member type="way" ref="1025731531" role=""/>
+  <member type="way" ref="848013829" role=""/>
+  <member type="way" ref="1025731533" role=""/>
+  <member type="way" ref="1025731534" role=""/>
+  <member type="way" ref="1025731532" role=""/>
+  <member type="way" ref="196116970" role=""/>
+  <member type="way" ref="957050578" role=""/>
+  <member type="way" ref="513746101" role=""/>
+  <member type="way" ref="957049320" role=""/>
+  <member type="way" ref="957049323" role=""/>
+  <member type="way" ref="957049321" role=""/>
+  <member type="way" ref="46583484" role=""/>
+  <member type="way" ref="732794019" role=""/>
+  <member type="way" ref="902168961" role=""/>
+  <member type="way" ref="327917960" role=""/>
+  <member type="way" ref="196116971" role=""/>
+  <member type="way" ref="455689184" role=""/>
+  <member type="way" ref="309956784" role=""/>
+  <member type="way" ref="421505920" role=""/>
+  <member type="way" ref="195743134" role=""/>
+  <member type="way" ref="195743135" role=""/>
+  <member type="way" ref="778007334" role=""/>
+  <member type="way" ref="5673326" role=""/>
+  <member type="way" ref="195743206" role=""/>
+  <member type="way" ref="455688156" role=""/>
+  <member type="way" ref="195743194" role=""/>
+  <member type="way" ref="1098148714" role=""/>
+  <member type="way" ref="46568332" role=""/>
+  <member type="way" ref="46568326" role=""/>
+  <member type="way" ref="1098148716" role=""/>
+  <member type="way" ref="735173275" role=""/>
+  <member type="way" ref="735173541" role=""/>
+  <member type="way" ref="745617599" role=""/>
+  <member type="way" ref="735173276" role=""/>
+  <member type="way" ref="5671562" role=""/>
+  <member type="way" ref="46568285" role=""/>
+  <member type="way" ref="46568279" role=""/>
+  <member type="way" ref="118524657" role=""/>
+  <tag k="fee" v="yes"/>
+  <tag k="from" v="Chelsea"/>
+  <tag k="name" v="NYCB - M11 Chelsea --&gt; Hamilton Heights"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="Metropolitan Transportation Authority"/>
+  <tag k="operator:short" v="MTA"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="M11"/>
+  <tag k="reservation" v="no"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Hamilton Heights"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2636373" visible="true" version="257" changeset="127076577" timestamp="2022-10-06T03:04:12Z" user="snake21" uid="2591427">
+  <member type="node" ref="8703182173" role="platform"/>
+  <member type="node" ref="4775572232" role="platform"/>
+  <member type="node" ref="5177358157" role="platform"/>
+  <member type="node" ref="3135730329" role="platform"/>
+  <member type="node" ref="5402622153" role="platform"/>
+  <member type="node" ref="5263703033" role="platform"/>
+  <member type="node" ref="5206203187" role="platform"/>
+  <member type="node" ref="6223304365" role="platform"/>
+  <member type="node" ref="5123007599" role="platform"/>
+  <member type="node" ref="5235606230" role="platform"/>
+  <member type="node" ref="5104280315" role="platform"/>
+  <member type="node" ref="4925172080" role="platform"/>
+  <member type="node" ref="5104093453" role="platform"/>
+  <member type="node" ref="5136688121" role="platform"/>
+  <member type="node" ref="5136685984" role="platform"/>
+  <member type="node" ref="5136645554" role="platform"/>
+  <member type="way" ref="196116985" role=""/>
+  <member type="way" ref="497262775" role=""/>
+  <member type="way" ref="195743139" role=""/>
+  <member type="way" ref="524569306" role=""/>
+  <member type="way" ref="402097156" role=""/>
+  <member type="way" ref="849974885" role=""/>
+  <member type="way" ref="1053934583" role=""/>
+  <member type="way" ref="1033101550" role=""/>
+  <member type="way" ref="196117064" role=""/>
+  <member type="way" ref="196116971" role=""/>
+  <member type="way" ref="455689184" role=""/>
+  <member type="way" ref="309956784" role=""/>
+  <member type="way" ref="420881462" role=""/>
+  <member type="way" ref="420881464" role=""/>
+  <member type="way" ref="195743203" role=""/>
+  <member type="way" ref="420881461" role=""/>
+  <member type="way" ref="945944497" role=""/>
+  <member type="way" ref="497250991" role=""/>
+  <member type="way" ref="497250990" role=""/>
+  <member type="way" ref="550514517" role=""/>
+  <member type="way" ref="305323035" role=""/>
+  <member type="way" ref="305323030" role=""/>
+  <member type="way" ref="332388684" role=""/>
+  <member type="way" ref="332388685" role=""/>
+  <member type="way" ref="420881459" role=""/>
+  <member type="way" ref="61133358" role=""/>
+  <member type="way" ref="420881455" role=""/>
+  <member type="way" ref="420881453" role=""/>
+  <member type="way" ref="420881457" role=""/>
+  <member type="way" ref="421506979" role=""/>
+  <member type="way" ref="421506978" role=""/>
+  <member type="way" ref="278882488" role=""/>
+  <member type="way" ref="421506977" role=""/>
+  <member type="way" ref="420881456" role=""/>
+  <member type="way" ref="420881454" role=""/>
+  <member type="way" ref="195745912" role=""/>
+  <member type="way" ref="421844226" role=""/>
+  <member type="way" ref="421844225" role=""/>
+  <member type="way" ref="195745913" role=""/>
+  <member type="way" ref="196116995" role=""/>
+  <member type="way" ref="5669594" role=""/>
+  <member type="way" ref="194933377" role=""/>
+  <member type="way" ref="32965210" role=""/>
+  <member type="way" ref="122625733" role=""/>
+  <member type="way" ref="46240262" role=""/>
+  <member type="way" ref="25464382" role=""/>
+  <member type="way" ref="801411754" role=""/>
+  <member type="way" ref="801411752" role=""/>
+  <member type="way" ref="1080379606" role=""/>
+  <member type="way" ref="965731758" role=""/>
+  <member type="way" ref="1080379615" role=""/>
+  <member type="way" ref="990651426" role=""/>
+  <member type="way" ref="90086365" role=""/>
+  <member type="way" ref="90086380" role=""/>
+  <member type="way" ref="947234940" role=""/>
+  <member type="way" ref="808614660" role=""/>
+  <member type="way" ref="808614661" role=""/>
+  <member type="way" ref="808614665" role=""/>
+  <member type="way" ref="808614670" role=""/>
+  <member type="way" ref="947595893" role=""/>
+  <member type="way" ref="25345955" role=""/>
+  <member type="way" ref="375324639" role=""/>
+  <member type="way" ref="374433281" role=""/>
+  <member type="way" ref="374433298" role=""/>
+  <member type="way" ref="374433276" role=""/>
+  <member type="way" ref="1001721291" role=""/>
+  <member type="way" ref="1001721292" role=""/>
+  <member type="way" ref="497263582" role=""/>
+  <member type="way" ref="25649770" role=""/>
+  <member type="way" ref="560353397" role=""/>
+  <member type="way" ref="560353398" role=""/>
+  <member type="way" ref="1053526614" role=""/>
+  <member type="way" ref="46139827" role=""/>
+  <member type="way" ref="226829043" role=""/>
+  <member type="way" ref="850605626" role=""/>
+  <member type="way" ref="683931306" role=""/>
+  <member type="way" ref="5710549" role=""/>
+  <member type="way" ref="772266907" role=""/>
+  <member type="way" ref="772266908" role=""/>
+  <member type="way" ref="159229975" role=""/>
+  <member type="way" ref="46738918" role=""/>
+  <member type="way" ref="25173654" role=""/>
+  <member type="way" ref="993802668" role=""/>
+  <member type="way" ref="351259041" role=""/>
+  <member type="way" ref="351276054" role=""/>
+  <member type="way" ref="993556138" role=""/>
+  <member type="way" ref="945337520" role=""/>
+  <member type="way" ref="993556139" role=""/>
+  <member type="way" ref="216598140" role=""/>
+  <member type="way" ref="420346016" role=""/>
+  <member type="way" ref="896275387" role=""/>
+  <member type="way" ref="839026967" role=""/>
+  <member type="way" ref="798110963" role=""/>
+  <member type="way" ref="25335853" role=""/>
+  <member type="way" ref="1101369021" role=""/>
+  <member type="way" ref="241364265" role=""/>
+  <member type="way" ref="1101369022" role=""/>
+  <member type="way" ref="981577941" role=""/>
+  <member type="way" ref="586390406" role=""/>
+  <member type="way" ref="40101454" role=""/>
+  <member type="way" ref="25335930" role=""/>
+  <member type="way" ref="586820529" role=""/>
+  <member type="way" ref="239620368" role=""/>
+  <member type="way" ref="1049625476" role=""/>
+  <member type="way" ref="25336284" role=""/>
+  <member type="way" ref="44164411" role=""/>
+  <member type="way" ref="880724758" role=""/>
+  <member type="way" ref="1034764059" role=""/>
+  <member type="way" ref="709706916" role=""/>
+  <member type="way" ref="644966434" role=""/>
+  <member type="way" ref="653217129" role=""/>
+  <member type="way" ref="720204614" role=""/>
+  <member type="way" ref="813951617" role=""/>
+  <member type="way" ref="678416320" role=""/>
+  <member type="way" ref="758719053" role=""/>
+  <member type="way" ref="1086564978" role=""/>
+  <member type="way" ref="1069843813" role=""/>
+  <member type="way" ref="1086564977" role=""/>
+  <member type="way" ref="695816992" role=""/>
+  <member type="way" ref="695816991" role=""/>
+  <member type="way" ref="756044801" role=""/>
+  <tag k="bus" v="yes"/>
+  <tag k="description" v="Select Bus Service from Columbia University to all LaGuardia Terminals."/>
+  <tag k="fee" v="yes"/>
+  <tag k="from" v="Harlem @ Columbia University"/>
+  <tag k="name" v="NYCB - M60 SBS - Harlem @ Columbia University --&gt; LaGuardia Airport"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="Metropolitan Transportation Authority"/>
+  <tag k="operator:short" v="MTA"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="M60 SBS"/>
+  <tag k="reservation" v="no"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="LaGuardia Airport"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2636378" visible="true" version="26" changeset="124144523" timestamp="2022-07-27T14:31:29Z" user="MacLondon" uid="322039">
+  <member type="relation" ref="2636365" role="route"/>
+  <member type="relation" ref="2636371" role="route"/>
+  <member type="relation" ref="2636372" role="route"/>
+  <member type="relation" ref="2632937" role="route"/>
+  <member type="relation" ref="2632938" role="route"/>
+  <member type="relation" ref="2636375" role="route"/>
+  <member type="relation" ref="2632942" role="route"/>
+  <member type="relation" ref="2632958" role="route"/>
+  <member type="relation" ref="2636366" role="route"/>
+  <member type="relation" ref="2636370" role="route"/>
+  <member type="relation" ref="2624103" role="route"/>
+  <member type="relation" ref="2624104" role="route"/>
+  <member type="relation" ref="2632934" role="route"/>
+  <member type="relation" ref="9316133" role="route"/>
+  <member type="relation" ref="9104444" role="route"/>
+  <member type="relation" ref="2632935" role="route"/>
+  <member type="relation" ref="2624105" role="route"/>
+  <member type="relation" ref="2624106" role="route"/>
+  <member type="relation" ref="2624107" role="route"/>
+  <member type="relation" ref="2632936" role="route"/>
+  <member type="relation" ref="2624128" role="route"/>
+  <member type="relation" ref="2624129" role="route"/>
+  <member type="relation" ref="2624150" role="route"/>
+  <member type="relation" ref="2255524" role="route"/>
+  <member type="relation" ref="2254126" role="route"/>
+  <member type="relation" ref="2255494" role="route"/>
+  <member type="relation" ref="12207971" role=""/>
+  <member type="relation" ref="2632939" role="route"/>
+  <member type="relation" ref="2632940" role="route"/>
+  <member type="relation" ref="2632941" role="route"/>
+  <member type="relation" ref="10420333" role="route"/>
+  <member type="relation" ref="10432832" role="route"/>
+  <member type="relation" ref="2636377" role="route"/>
+  <member type="relation" ref="2636367" role="route"/>
+  <member type="relation" ref="2636368" role="route"/>
+  <member type="relation" ref="2636369" role="route"/>
+  <member type="relation" ref="2632957" role="route"/>
+  <member type="relation" ref="2632931" role="route"/>
+  <member type="relation" ref="10460964" role="route"/>
+  <member type="relation" ref="10462011" role="route"/>
+  <member type="relation" ref="2632933" role="route"/>
+  <tag k="name" v="New York City Buses (Manhattan)"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="Metropolitan Transportation Authority"/>
+  <tag k="operator:short" v="MTA"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+  <tag k="website" v="https://new.mta.info/"/>
+ </relation>
+ <relation id="9435985" visible="true" version="23" changeset="126238895" timestamp="2022-09-15T20:10:37Z" user="TheBestIdea" uid="298513">
+  <member type="way" ref="196116964" role=""/>
+  <member type="way" ref="898077311" role=""/>
+  <member type="way" ref="458784334" role="forward"/>
+  <member type="way" ref="420878810" role=""/>
+  <member type="way" ref="679616478" role=""/>
+  <member type="way" ref="420878812" role=""/>
+  <member type="way" ref="196116968" role=""/>
+  <member type="way" ref="440122879" role=""/>
+  <member type="way" ref="196116966" role=""/>
+  <member type="way" ref="945384093" role=""/>
+  <member type="way" ref="584971408" role=""/>
+  <member type="way" ref="46591062" role=""/>
+  <member type="way" ref="196116969" role=""/>
+  <member type="way" ref="420874482" role=""/>
+  <member type="way" ref="420874485" role=""/>
+  <member type="way" ref="745675478" role=""/>
+  <member type="way" ref="420874480" role=""/>
+  <member type="way" ref="420874483" role=""/>
+  <member type="way" ref="420874479" role=""/>
+  <member type="way" ref="1095014324" role=""/>
+  <member type="way" ref="68668563" role=""/>
+  <member type="way" ref="440122878" role=""/>
+  <member type="way" ref="727135244" role=""/>
+  <member type="way" ref="196116967" role=""/>
+  <member type="way" ref="455687907" role=""/>
+  <member type="way" ref="778007334" role=""/>
+  <member type="way" ref="195743135" role=""/>
+  <member type="way" ref="195743134" role=""/>
+  <member type="way" ref="421505920" role=""/>
+  <member type="way" ref="309956784" role=""/>
+  <member type="way" ref="455689184" role=""/>
+  <member type="way" ref="196116971" role=""/>
+  <member type="way" ref="902168961" role=""/>
+  <member type="way" ref="327917960" role=""/>
+  <member type="way" ref="732794019" role=""/>
+  <member type="way" ref="46583484" role=""/>
+  <member type="way" ref="957049321" role="forward"/>
+  <member type="way" ref="957049323" role="forward"/>
+  <member type="way" ref="957049320" role="forward"/>
+  <member type="way" ref="513746101" role="forward"/>
+  <member type="way" ref="957050578" role="forward"/>
+  <member type="way" ref="196116970" role="forward"/>
+  <member type="way" ref="1025731532" role="forward"/>
+  <member type="way" ref="1025731534" role="forward"/>
+  <member type="way" ref="848013829" role="forward"/>
+  <member type="way" ref="1025731533" role="forward"/>
+  <member type="way" ref="1025731530" role="forward"/>
+  <member type="way" ref="1025731529" role="forward"/>
+  <member type="way" ref="1025731528" role="forward"/>
+  <member type="way" ref="1025731527" role="forward"/>
+  <member type="way" ref="1025731526" role="forward"/>
+  <member type="way" ref="1025731531" role="forward"/>
+  <member type="way" ref="1025731525" role="forward"/>
+  <member type="way" ref="439805285" role="forward"/>
+  <member type="way" ref="1025731524" role="forward"/>
+  <member type="way" ref="781311948" role="forward"/>
+  <member type="way" ref="954503820" role="forward"/>
+  <member type="way" ref="895398382" role="forward"/>
+  <member type="way" ref="895398383" role="forward"/>
+  <member type="way" ref="895398384" role="forward"/>
+  <member type="way" ref="895398385" role="forward"/>
+  <member type="way" ref="195743132" role="forward"/>
+  <member type="way" ref="1025731514" role="forward"/>
+  <member type="way" ref="195743133" role="forward"/>
+  <member type="way" ref="955259023" role="forward"/>
+  <member type="way" ref="740085321" role="forward"/>
+  <member type="way" ref="1025731515" role="forward"/>
+  <member type="way" ref="1025731516" role="forward"/>
+  <member type="way" ref="1025731517" role="forward"/>
+  <member type="way" ref="1025731518" role="forward"/>
+  <member type="way" ref="1025731519" role="forward"/>
+  <member type="way" ref="1025731520" role="forward"/>
+  <member type="way" ref="1025731521" role="forward"/>
+  <member type="way" ref="1025731522" role="forward"/>
+  <member type="way" ref="1025731523" role="forward"/>
+  <member type="way" ref="1052660934" role="forward"/>
+  <member type="way" ref="1052660935" role="forward"/>
+  <member type="way" ref="5671056" role="forward"/>
+  <member type="way" ref="1052660937" role="forward"/>
+  <member type="way" ref="809013917" role="forward"/>
+  <member type="way" ref="809013918" role="forward"/>
+  <member type="way" ref="1023818802" role="forward"/>
+  <member type="way" ref="808055022" role="forward"/>
+  <member type="way" ref="808055023" role="forward"/>
+  <member type="way" ref="705223737" role=""/>
+  <member type="way" ref="1041021164" role=""/>
+  <member type="way" ref="993368838" role=""/>
+  <member type="way" ref="993368836" role=""/>
+  <member type="way" ref="464988509" role="forward"/>
+  <member type="way" ref="114654203" role="forward"/>
+  <member type="way" ref="195743131" role="forward"/>
+  <member type="way" ref="895398380" role="forward"/>
+  <member type="way" ref="195743136" role="forward"/>
+  <member type="way" ref="895398381" role="forward"/>
+  <member type="way" ref="513746101" role="forward"/>
+  <tag k="cycle_network" v="US:NY:NYC"/>
+  <tag k="name" v="Amsterdam Avenue"/>
+  <tag k="network" v="lcn"/>
+  <tag k="ref" v="Amsterdam"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="12206614" visible="true" version="26" changeset="125022035" timestamp="2022-08-17T14:58:24Z" user="MacLondon" uid="322039">
+  <member type="node" ref="5078008605" role="platform"/>
+  <member type="node" ref="1698103579" role="platform"/>
+  <member type="node" ref="5600238942" role="platform"/>
+  <member type="node" ref="5301425786" role="platform"/>
+  <member type="node" ref="5104092398" role="platform"/>
+  <member type="node" ref="4925172077" role="platform"/>
+  <member type="node" ref="5104089313" role="platform"/>
+  <member type="node" ref="5235605497" role="platform"/>
+  <member type="node" ref="5171180851" role="platform"/>
+  <member type="node" ref="5235581670" role="platform"/>
+  <member type="node" ref="5206207700" role="platform"/>
+  <member type="node" ref="5263686111" role="platform"/>
+  <member type="node" ref="5402622150" role="platform"/>
+  <member type="node" ref="8703182175" role="platform"/>
+  <member type="node" ref="8703182174" role="platform"/>
+  <member type="node" ref="3271250930" role="platform"/>
+  <member type="node" ref="8703182173" role="platform"/>
+  <member type="way" ref="695816992" role=""/>
+  <member type="way" ref="695816991" role=""/>
+  <member type="way" ref="756044801" role=""/>
+  <member type="way" ref="1032029664" role=""/>
+  <member type="way" ref="882869689" role=""/>
+  <member type="way" ref="894609657" role=""/>
+  <member type="way" ref="882869690" role=""/>
+  <member type="way" ref="785917467" role=""/>
+  <member type="way" ref="785917471" role=""/>
+  <member type="way" ref="818527304" role=""/>
+  <member type="way" ref="894609208" role=""/>
+  <member type="way" ref="832676066" role=""/>
+  <member type="way" ref="887582644" role=""/>
+  <member type="way" ref="1032030962" role=""/>
+  <member type="way" ref="628676474" role=""/>
+  <member type="way" ref="628858469" role=""/>
+  <member type="way" ref="681705318" role=""/>
+  <member type="way" ref="628858472" role=""/>
+  <member type="way" ref="837937527" role=""/>
+  <member type="way" ref="836850786" role=""/>
+  <member type="way" ref="993558893" role=""/>
+  <member type="way" ref="722630604" role=""/>
+  <member type="way" ref="993558882" role=""/>
+  <member type="way" ref="679051049" role=""/>
+  <member type="way" ref="679051045" role=""/>
+  <member type="way" ref="40103405" role=""/>
+  <member type="way" ref="993558885" role=""/>
+  <member type="way" ref="1086991517" role=""/>
+  <member type="way" ref="1082450750" role=""/>
+  <member type="way" ref="1082450751" role=""/>
+  <member type="way" ref="1082450752" role=""/>
+  <member type="way" ref="1082450753" role=""/>
+  <member type="way" ref="1082450754" role=""/>
+  <member type="way" ref="643517348" role=""/>
+  <member type="way" ref="1082450756" role=""/>
+  <member type="way" ref="198572118" role=""/>
+  <member type="way" ref="679047570" role=""/>
+  <member type="way" ref="1082450757" role=""/>
+  <member type="way" ref="40103426" role=""/>
+  <member type="way" ref="1082450758" role=""/>
+  <member type="way" ref="1082450765" role=""/>
+  <member type="way" ref="1082450761" role=""/>
+  <member type="way" ref="993558881" role=""/>
+  <member type="way" ref="679042639" role=""/>
+  <member type="way" ref="1082452635" role=""/>
+  <member type="way" ref="1082348387" role=""/>
+  <member type="way" ref="722630605" role=""/>
+  <member type="way" ref="679051047" role=""/>
+  <member type="way" ref="1082452643" role=""/>
+  <member type="way" ref="5706263" role=""/>
+  <member type="way" ref="693946236" role=""/>
+  <member type="way" ref="241364267" role=""/>
+  <member type="way" ref="5707800" role=""/>
+  <member type="way" ref="1038773813" role=""/>
+  <member type="way" ref="198595453" role=""/>
+  <member type="way" ref="822571853" role=""/>
+  <member type="way" ref="822571854" role=""/>
+  <member type="way" ref="5707799" role=""/>
+  <member type="way" ref="159229976" role=""/>
+  <member type="way" ref="822073481" role=""/>
+  <member type="way" ref="683931309" role=""/>
+  <member type="way" ref="420905641" role=""/>
+  <member type="way" ref="850605625" role=""/>
+  <member type="way" ref="850605624" role=""/>
+  <member type="way" ref="993553210" role=""/>
+  <member type="way" ref="820259747" role=""/>
+  <member type="way" ref="993553213" role=""/>
+  <member type="way" ref="421845655" role=""/>
+  <member type="way" ref="46139826" role=""/>
+  <member type="way" ref="421845656" role=""/>
+  <member type="way" ref="25345958" role=""/>
+  <member type="way" ref="236779613" role=""/>
+  <member type="way" ref="11316055" role=""/>
+  <member type="way" ref="808614669" role=""/>
+  <member type="way" ref="808614666" role=""/>
+  <member type="way" ref="808614662" role=""/>
+  <member type="way" ref="808614659" role=""/>
+  <member type="way" ref="46421548" role=""/>
+  <member type="way" ref="949942885" role=""/>
+  <member type="way" ref="25464469" role=""/>
+  <member type="way" ref="25464506" role=""/>
+  <member type="way" ref="25464508" role=""/>
+  <member type="way" ref="992420743" role=""/>
+  <member type="way" ref="1080379611" role=""/>
+  <member type="way" ref="194933373" role=""/>
+  <member type="way" ref="1080379610" role=""/>
+  <member type="way" ref="5669174" role=""/>
+  <member type="way" ref="801411751" role=""/>
+  <member type="way" ref="801411753" role=""/>
+  <member type="way" ref="32965206" role=""/>
+  <member type="way" ref="122625731" role=""/>
+  <member type="way" ref="5669177" role=""/>
+  <member type="way" ref="122625738" role=""/>
+  <member type="way" ref="196116995" role=""/>
+  <member type="way" ref="195745913" role=""/>
+  <member type="way" ref="421844225" role=""/>
+  <member type="way" ref="421844226" role=""/>
+  <member type="way" ref="195745912" role=""/>
+  <member type="way" ref="420881454" role=""/>
+  <member type="way" ref="420881456" role=""/>
+  <member type="way" ref="421506977" role=""/>
+  <member type="way" ref="278882488" role=""/>
+  <member type="way" ref="421506978" role=""/>
+  <member type="way" ref="421506979" role=""/>
+  <member type="way" ref="420881457" role=""/>
+  <member type="way" ref="420881453" role=""/>
+  <member type="way" ref="420881455" role=""/>
+  <member type="way" ref="61133358" role=""/>
+  <member type="way" ref="420881459" role=""/>
+  <member type="way" ref="332388685" role=""/>
+  <member type="way" ref="332388684" role=""/>
+  <member type="way" ref="305323030" role=""/>
+  <member type="way" ref="305323035" role=""/>
+  <member type="way" ref="550514517" role=""/>
+  <member type="way" ref="497250990" role=""/>
+  <member type="way" ref="497250991" role=""/>
+  <member type="way" ref="945944497" role=""/>
+  <member type="way" ref="420881461" role=""/>
+  <member type="way" ref="195743203" role=""/>
+  <member type="way" ref="420881464" role=""/>
+  <member type="way" ref="420881462" role=""/>
+  <member type="way" ref="309956784" role=""/>
+  <member type="way" ref="455689184" role=""/>
+  <member type="way" ref="196116971" role=""/>
+  <member type="way" ref="196117064" role=""/>
+  <member type="way" ref="1033101550" role=""/>
+  <member type="way" ref="455675302" role=""/>
+  <member type="way" ref="196116984" role=""/>
+  <member type="way" ref="849974884" role=""/>
+  <member type="way" ref="1025137731" role=""/>
+  <member type="way" ref="402097157" role=""/>
+  <member type="way" ref="524569322" role=""/>
+  <member type="way" ref="980924795" role=""/>
+  <member type="way" ref="980924797" role=""/>
+  <member type="way" ref="497262776" role=""/>
+  <member type="way" ref="195743148" role=""/>
+  <member type="way" ref="439801909" role=""/>
+  <member type="way" ref="46563061" role=""/>
+  <member type="way" ref="420625568" role=""/>
+  <member type="way" ref="68674963" role=""/>
+  <member type="way" ref="195743200" role=""/>
+  <member type="way" ref="196116985" role=""/>
+  <tag k="description" v="Select Bus Service from LaGuardia to Harlem 125th Street and Columbia University"/>
+  <tag k="fee" v="yes"/>
+  <tag k="from" v="LaGuardia Airport"/>
+  <tag k="name" v="NYCB - M60 SBS - LaGuardia Airport --&gt; Harlem 125 Street and Columbia University"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="Metropolitan Transportation Authority"/>
+  <tag k="operator:short" v="MTA"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="M60 SBS"/>
+  <tag k="reservation" v="no"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Columbia University"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="12207971" visible="true" version="3" changeset="124144523" timestamp="2022-07-27T14:31:29Z" user="MacLondon" uid="322039">
+  <member type="relation" ref="12206614" role=""/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="Metropolitan Transportation Authority"/>
+  <tag k="operator:short" v="MTA"/>
+  <tag k="ref" v="M60 SBS"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="12286319" visible="true" version="27" changeset="126677551" timestamp="2022-09-27T03:32:11Z" user="osmkarl" uid="88339">
+  <member type="node" ref="3273383617" role="platform"/>
+  <member type="node" ref="3262539803" role="platform"/>
+  <member type="node" ref="3262539824" role="platform"/>
+  <member type="node" ref="3262539825" role="platform"/>
+  <member type="node" ref="1888233683" role="platform"/>
+  <member type="node" ref="3269834176" role="platform"/>
+  <member type="node" ref="3248774700" role="platform"/>
+  <member type="node" ref="3269834170" role="platform"/>
+  <member type="node" ref="3269834171" role="platform"/>
+  <member type="node" ref="3913758293" role="platform"/>
+  <member type="node" ref="3913756003" role="platform"/>
+  <member type="node" ref="3913754635" role="platform"/>
+  <member type="way" ref="118524657" role=""/>
+  <member type="way" ref="46568279" role=""/>
+  <member type="way" ref="46568285" role=""/>
+  <member type="way" ref="5671562" role=""/>
+  <member type="way" ref="735173276" role=""/>
+  <member type="way" ref="745617598" role=""/>
+  <member type="way" ref="723323622" role=""/>
+  <member type="way" ref="1098148715" role=""/>
+  <member type="way" ref="800923647" role=""/>
+  <member type="way" ref="800923648" role=""/>
+  <member type="way" ref="1098148713" role=""/>
+  <member type="way" ref="800923650" role=""/>
+  <member type="way" ref="455688156" role=""/>
+  <member type="way" ref="195743206" role=""/>
+  <member type="way" ref="5673326" role=""/>
+  <member type="way" ref="778007334" role=""/>
+  <member type="way" ref="195743135" role=""/>
+  <member type="way" ref="195743134" role=""/>
+  <member type="way" ref="421505920" role=""/>
+  <member type="way" ref="309956784" role=""/>
+  <member type="way" ref="455689184" role=""/>
+  <member type="way" ref="196116971" role=""/>
+  <member type="way" ref="327917960" role=""/>
+  <member type="way" ref="902168961" role=""/>
+  <member type="way" ref="732794019" role=""/>
+  <member type="way" ref="46583484" role=""/>
+  <member type="way" ref="196116986" role=""/>
+  <member type="way" ref="5671103" role=""/>
+  <member type="way" ref="420625559" role=""/>
+  <member type="way" ref="420625561" role=""/>
+  <member type="way" ref="234053944" role=""/>
+  <member type="way" ref="1051014410" role=""/>
+  <member type="way" ref="420625562" role=""/>
+  <member type="way" ref="420625563" role=""/>
+  <member type="way" ref="420625560" role=""/>
+  <member type="way" ref="421853637" role=""/>
+  <member type="way" ref="421853626" role=""/>
+  <member type="way" ref="196116990" role=""/>
+  <member type="way" ref="1052940920" role=""/>
+  <member type="way" ref="420623117" role=""/>
+  <member type="way" ref="421853638" role=""/>
+  <member type="way" ref="421853624" role=""/>
+  <member type="way" ref="226015229" role=""/>
+  <member type="way" ref="421853632" role=""/>
+  <member type="way" ref="421853635" role=""/>
+  <member type="way" ref="421853623" role=""/>
+  <member type="way" ref="421853640" role=""/>
+  <member type="way" ref="421853622" role=""/>
+  <member type="way" ref="421853636" role=""/>
+  <member type="way" ref="421853634" role=""/>
+  <member type="way" ref="421853641" role=""/>
+  <member type="way" ref="421853627" role=""/>
+  <member type="way" ref="421853639" role=""/>
+  <member type="way" ref="421853625" role=""/>
+  <member type="way" ref="421853630" role=""/>
+  <member type="way" ref="421853628" role=""/>
+  <member type="way" ref="1053628248" role=""/>
+  <member type="way" ref="195743159" role=""/>
+  <member type="way" ref="195743158" role=""/>
+  <member type="way" ref="1052799032" role=""/>
+  <member type="way" ref="421853633" role=""/>
+  <member type="way" ref="420897875" role=""/>
+  <member type="way" ref="420897876" role=""/>
+  <member type="way" ref="420898207" role=""/>
+  <member type="way" ref="420898204" role=""/>
+  <member type="way" ref="420898206" role=""/>
+  <member type="way" ref="420898202" role=""/>
+  <member type="way" ref="1024458692" role=""/>
+  <member type="way" ref="1024458694" role=""/>
+  <member type="way" ref="1024458696" role=""/>
+  <member type="way" ref="226015228" role=""/>
+  <member type="way" ref="1024458698" role=""/>
+  <member type="way" ref="907627764" role=""/>
+  <member type="way" ref="907627765" role=""/>
+  <member type="way" ref="439801899" role=""/>
+  <member type="way" ref="439801900" role=""/>
+  <member type="way" ref="693838030" role=""/>
+  <member type="way" ref="1046481428" role=""/>
+  <member type="way" ref="1046481426" role=""/>
+  <member type="way" ref="196116991" role=""/>
+  <member type="way" ref="630828581" role=""/>
+  <member type="way" ref="938601999" role=""/>
+  <member type="way" ref="938601996" role=""/>
+  <member type="way" ref="460067515" role=""/>
+  <member type="way" ref="1025734017" role=""/>
+  <member type="way" ref="420892267" role=""/>
+  <member type="way" ref="420892262" role=""/>
+  <member type="way" ref="420892266" role=""/>
+  <member type="way" ref="420892263" role=""/>
+  <member type="way" ref="420892264" role=""/>
+  <member type="way" ref="420892275" role=""/>
+  <member type="way" ref="420892265" role=""/>
+  <member type="way" ref="420892269" role=""/>
+  <member type="way" ref="420892274" role=""/>
+  <member type="way" ref="420892272" role=""/>
+  <member type="way" ref="420892273" role=""/>
+  <member type="way" ref="420892271" role=""/>
+  <member type="way" ref="420892270" role=""/>
+  <member type="way" ref="5671276" role=""/>
+  <member type="way" ref="1025734018" role=""/>
+  <member type="way" ref="1025734019" role=""/>
+  <member type="way" ref="1025734020" role=""/>
+  <member type="way" ref="1025734021" role=""/>
+  <member type="way" ref="814278019" role=""/>
+  <member type="way" ref="420907907" role=""/>
+  <member type="way" ref="420907908" role=""/>
+  <member type="way" ref="968513231" role=""/>
+  <member type="way" ref="968513228" role=""/>
+  <member type="way" ref="968513229" role=""/>
+  <member type="way" ref="1021047632" role=""/>
+  <member type="way" ref="194926855" role=""/>
+  <member type="way" ref="525729009" role=""/>
+  <member type="way" ref="1025734022" role=""/>
+  <member type="way" ref="1025734023" role=""/>
+  <member type="way" ref="525729010" role=""/>
+  <member type="way" ref="1051734606" role=""/>
+  <member type="way" ref="420901923" role=""/>
+  <member type="way" ref="420901919" role=""/>
+  <member type="way" ref="988515374" role=""/>
+  <member type="way" ref="420901920" role=""/>
+  <member type="way" ref="420901917" role=""/>
+  <member type="way" ref="420901921" role=""/>
+  <member type="way" ref="420901922" role=""/>
+  <member type="way" ref="194926856" role=""/>
+  <member type="way" ref="420901924" role=""/>
+  <member type="way" ref="350726030" role=""/>
+  <member type="way" ref="1027130505" role=""/>
+  <member type="way" ref="1027130506" role=""/>
+  <member type="way" ref="989270322" role=""/>
+  <member type="way" ref="1027130508" role=""/>
+  <member type="way" ref="1027130507" role=""/>
+  <member type="way" ref="1027130509" role=""/>
+  <member type="way" ref="1027130510" role=""/>
+  <member type="way" ref="350726028" role=""/>
+  <member type="way" ref="1027130512" role=""/>
+  <member type="way" ref="1027130513" role=""/>
+  <member type="way" ref="1027130511" role=""/>
+  <member type="way" ref="384178813" role=""/>
+  <member type="way" ref="963567032" role=""/>
+  <member type="way" ref="963567034" role=""/>
+  <member type="way" ref="156994977" role=""/>
+  <member type="way" ref="963575583" role=""/>
+  <member type="way" ref="963575586" role=""/>
+  <member type="way" ref="963575587" role=""/>
+  <member type="way" ref="194923812" role=""/>
+  <member type="way" ref="674686230" role=""/>
+  <member type="way" ref="127693388" role=""/>
+  <member type="way" ref="350726031" role=""/>
+  <member type="way" ref="1027130514" role=""/>
+  <member type="way" ref="5670451" role=""/>
+  <member type="way" ref="496985713" role=""/>
+  <member type="way" ref="474635899" role=""/>
+  <member type="way" ref="474635904" role=""/>
+  <member type="way" ref="5673452" role=""/>
+  <member type="way" ref="195834894" role=""/>
+  <tag k="fee" v="yes"/>
+  <tag k="from" v="Hamilton Heights"/>
+  <tag k="name" v="NYCB - M11 Hamilton Heights --&gt; Chelsea"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="Metropolitan Transportation Authority"/>
+  <tag k="operator:short" v="MTA"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="M11"/>
+  <tag k="reservation" v="no"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Chelsea"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="12286320" visible="true" version="2" changeset="111035842" timestamp="2021-09-10T17:54:16Z" user="brendan77" uid="193835">
+  <member type="relation" ref="12286319" role="route"/>
+  <member type="relation" ref="2636370" role="route"/>
+  <tag k="network" v="NYC Transit"/>
+  <tag k="network:wikidata" v="Q1325591"/>
+  <tag k="network:wikipedia" v="en:New York City Transit Authority"/>
+  <tag k="operator" v="Metropolitan Transportation Authority"/>
+  <tag k="operator:short" v="MTA"/>
+  <tag k="ref" v="M11"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+</osm>
