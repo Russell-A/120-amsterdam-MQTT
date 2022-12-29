@@ -1,0 +1,20 @@
+***Starting server on port 3400 ***
+  waiting for 2 clients...
+  client connected
+  client connected
+Loading net-file from 'map/map.net.xml' ... done (14ms).
+Loading done.
+Simulation started with time: 0.00.
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
+Simulation ended at time: 6.90
+Performance: 
+ Duration: 13.61s
+ TraCI-Duration: 8.85s
+ Real time factor: 0.506868
+ UPS: 20.935870
+Vehicles: 
+ Inserted: 8
+ Running: 8
+ Waiting: 0
+
