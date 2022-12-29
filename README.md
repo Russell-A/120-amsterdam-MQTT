@@ -14,4 +14,6 @@ There are three folders in this repo.
 # Usage
 To run the files, make sure you set the SUMO-HOME into your computers' PATH. Moreover, install 'traci' in python.
 
+The receiver is designed to be used together with ns3. If you want to run sumo alone, change '--num-clients' , '2' to '--num-clients' , '1' in MQTTReceiver.py.
+
 In order to run receive all messages. Run receiver then sender.
