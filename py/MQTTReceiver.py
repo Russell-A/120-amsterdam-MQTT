@@ -6,7 +6,7 @@ import traci,os
 from util import *
 
 sumoBinary = os.path.join(os.environ['SUMO_HOME'], 'bin', "sumo-gui")
-sumoCmd = [sumoBinary, "-n", "map/map.net.xml", 
+sumoCmd = [sumoBinary, "-n", "map/map1.net.xml", 
 "--step-length", str(0.1),"--start", '--log', './log_file.txt', '--num-clients' , '2']
 traci.start(sumoCmd, port = 3400)
 traci.setOrder(1)
@@ -56,23 +56,26 @@ def subscribe(client: mqtt_client):
 
 
             traci.simulationStep()
-            running_car = set(str(e) for e in traci.vehicle.getIDList())
+            running_veh = set(str(e) for e in traci.vehicle.getIDList()).union(set(traci.person.getIDList()))
             car_in_frame = set()
             for item in res:
                 typecar, id ,degree, speed, lat, lon = item.split(",")
-                id = str(int(id))
+                id = str(id).strip()
                 degree = float(degree)
                 speed = float(speed)
                 x = float(lat)
                 y = float(lon)
                 position = (x, y)
                 car_in_frame.add(id)
-                if id in running_car:
-                    UpdateVehicle(id,speed, position, degree)
+                if id in running_veh:
+                    UpdateVehicle(id,speed, position, degree, typecar)
                 else:
                     AddVehicle(id,speed, position,typecar)
-            for item in running_car - car_in_frame:
-                RemoveVehicle(item)
+            for item in running_veh - car_in_frame:
+                if item in traci.vehicle.getIDList():
+                    RemoveVehicle(item, 'car')
+                elif item in traci.person.getIDList():
+                    RemoveVehicle(item, 'person')  
 
 
 

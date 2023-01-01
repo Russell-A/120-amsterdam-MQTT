@@ -1,0 +1,35 @@
+***Starting server on port 3500 ***
+Loading net-file from '../map/./map1.net.xml' ... done (22ms).
+Loading done.
+Warning: Pedestrian vType 'DEFAULT_PEDTYPE' width 0.80 is larger than pedestrian.striping.stripe-width and this may cause collisions with vehicles.
+Warning: Pedestrian vType 'DEFAULT_PEDTYPE' width 0.80 is larger than pedestrian.striping.stripe-width and this may cause collisions with vehicles.
+Simulation started with time: 0.00.
+Warning: Person 'pf_1.4' is jammed on edge ':7004347452_w0', time=34.70.
+Warning: Person 'pf_1.5' is jammed on edge ':7004347452_w0', time=36.80.
+Warning: Vehicle '23' performs emergency braking on lane ':7004347452_0_0' with decel=9.00, wished=4.50, severity=1.00, time=56.10.
+Warning: Vehicle '36' performs emergency braking on lane ':1504153626_5_0' with decel=9.00, wished=4.50, severity=1.00, time=66.10.
+Warning: Vehicle '1' performs emergency braking on lane ':7004347452_1_0' with decel=9.00, wished=4.50, severity=1.00, time=77.40.
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
+Simulation ended at time: 262.70
+Performance: 
+ Duration: 103590.24s
+ TraCI-Duration: 6.29s
+ Real time factor: 0.00253595
+ UPS: 0.617606
+ UPS-Persons: 0.015030
+Vehicles: 
+ Inserted: 65
+ Running: 0
+ Waiting: 0
+Persons: 
+ Inserted: 10
+ Running: 0
+ Jammed: 2
+
+DijkstraRouter answered 10 queries and explored 7.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.10ms on average).
+DijkstraRouter answered 10 queries and explored 24.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.00ms on average).
+DijkstraRouter answered 250 queries and explored 2.52 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.00ms on average).

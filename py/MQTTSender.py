@@ -83,7 +83,7 @@ def publish(client):
         #time.sleep(0.5)
         # for i in range(1, random.randint(1,5)) :
         #     data[random.choice(detected_objects)] = "[" + str(j) + "," + str(random.uniform(1, 150)) + "," + random.choice(direction) + "," + str(random.uniform(1, 3000)) + "," + str(random.uniform(1, 3000)) + "," + str(random.uniform(1, 3000)) + "," + str(random.uniform(1, 3000)) + "," + str(random.uniform(1, 100)) + "]"
-        path_to_message = 'messages' + f"/{message_indx}.txt"
+        path_to_message = 'messages-with-pedestrains' + f"/{message_indx}.txt"
         data = text_message_to_dict_message(path_to_message,message_indx)
         # os.system(f"rm {path_to_message}")
         msg = json.dumps(data)
