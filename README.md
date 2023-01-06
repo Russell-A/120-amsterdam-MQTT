@@ -13,7 +13,7 @@ There are three folders in this repo.
 
 - The folder *messages-with-pedestrains* contains the tracks of vehicles. The name of the file indicates the order of frame and the data format is type, id, heading_degree, speed, x, y. It's linked with map1
 
-- The folder *messages-latest* contains the tracks of vehicles. The name of the file indicates the order of frame and the data format is type, id, heading_degree, speed, x, y. It's linked with map-latest
+- The folder *messages-latest* contains the tracks of vehicles. The name of the file indicates the order of frame and the data format is type, id, heading_degree, speed, x, y. It's linked with map-latest. It is also the default map this repo uses.
 
 
 ## Usage
@@ -22,6 +22,8 @@ To run the files, make sure you set the SUMO-HOME into your computers' PATH. Mor
 The receiver is designed to be used together with ns3. If you want to run sumo alone, change '--num-clients' , '2' to '--num-clients' , '1' in MQTTReceiver.py.
 
 In order to run receive all messages. Run receiver then sender.
+
+To change maps, change the path in Sender and Receiver.
 
 
 ## Details
