@@ -18,8 +18,8 @@ def AddVehicle(VehID, speed:float, position, typeID):
         traci.person.add(VehID, edgeID=edges[0], typeID = typeID, pos= 0)
         traci.person.moveToXY(VehID, edgeID="", x = position[0], y = position[1], keepRoute=0)
         traci.person.setSpeed(VehID, speed=speed)
-        traci.person.setWidth(VehID, 1)
-        traci.person.setLength(VehID, 1)
+        traci.person.setWidth(VehID, 0.88)
+        traci.person.setLength(VehID, 0.88)
         traci.person.setColor(VehID, (255,255,0,255))
 
 

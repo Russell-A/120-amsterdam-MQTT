@@ -2,98 +2,64 @@
   waiting for 2 clients...
   client connected
   client connected
-Loading net-file from 'map/map1.net.xml' ... done (15ms).
+Loading net-file from 'map/map-latest.net.xml' ... done (6ms).
 Loading done.
 Simulation started with time: 0.00.
-Warning: No connection between edge ':7323390439_w0-1.00' and edge '784001415#0_arrival_connector' found.
-Warning: Person 'pf_1.0' could not find route across junction '7323390439' from walkingArea ':7323390439_w0' to edge '784001415#0', time=0.10.
-Warning: Could not map position 216.13,197.82 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.0' time=0.20.
-Warning: Could not map position 216.18,197.92 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.0' time=0.30.
-Warning: Could not map position 216.25,198.03 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.0' time=0.40.
-Warning: Could not map position 216.31,198.14 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.0' time=0.50.
-Warning: No connection between edge ':7323390439_w0-1.00' and edge '784001415#0_arrival_connector' found.
-Warning: Person 'pf_1.1' could not find route across junction '7323390439' from walkingArea ':7323390439_w0' to edge '784001415#0', time=1.10.
-Warning: Could not map position 215.97,197.92 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.1' time=1.50.
-Warning: Could not map position 216.09,198.00 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.1' time=1.60.
-Warning: Could not map position 216.21,198.09 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.1' time=1.70.
-Warning: Could not map position 216.32,198.17 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.1' time=1.80.
-Warning: No connection between edge ':7323390439_w0-1.00' and edge '784001415#0_arrival_connector' found.
-Warning: Person 'pf_1.2' could not find route across junction '7323390439' from walkingArea ':7323390439_w0' to edge '784001415#0', time=4.10.
-Warning: Could not map position 216.10,197.89 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.2' time=4.20.
-Warning: Could not map position 216.12,198.06 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.2' time=4.30.
-Warning: Collision of person 'pf_1.1' and person 'pf_1.0', lane=':7004347452_1_0', time=5.70.
-Warning: Collision of person 'pf_1.1' and person 'pf_1.0', lane=':7004347452_1_0', time=6.20.
-Warning: Collision of person 'pf_1.1' and person 'pf_1.0', lane=':7004347452_1_0', time=6.30.
-Warning: Collision of person 'pf_1.1' and person 'pf_1.0', lane=':7004347452_1_0', time=6.70.
-Warning: Collision of person 'pf_1.1' and person 'pf_1.0', lane=':7004347452_1_0', time=6.80.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=7.90.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=8.10.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=8.20.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=8.30.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=8.60.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=8.70.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=8.80.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=8.90.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=9.10.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=9.20.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=9.30.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=9.40.
-Warning: Collision of person 'pf_1.0' and person 'pf_1.1', lane=':7004347452_0_0', time=9.50.
-Warning: Vehicle '70' performs emergency stop at the end of lane '-196116971#0_0' because there is no connection to the next edge (decel=-10.94, offset=0.16), time=10.50.
-Warning: Could not map position 222.69,209.21 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.0' time=10.90.
-Warning: Could not map position 222.74,209.30 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.0' time=11.00.
-Warning: Could not map position 222.80,209.40 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.0' time=11.10.
-Warning: Could not map position 222.86,209.51 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.0' time=11.20.
-Warning: Could not map position 222.15,209.56 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.1' time=11.20.
-Warning: Could not map position 222.93,209.62 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.0' time=11.30.
-Warning: Could not map position 222.99,209.72 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.0' time=11.40.
-Warning: No connection between edge ':7323390439_w0-1.00' and edge '784001415#0_arrival_connector' found.
-Warning: Person 'pf_1.3' could not find route across junction '7323390439' from walkingArea ':7323390439_w0' to edge '784001415#0', time=12.10.
-Warning: Could not map position 216.14,197.84 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.3' time=12.20.
-Warning: Could not map position 216.21,197.96 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.3' time=12.30.
-Warning: Could not map position 216.27,198.07 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.3' time=12.40.
-Warning: Could not map position 216.34,198.19 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.3' time=12.50.
-Warning: Could not map position 221.68,209.77 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.2' time=12.90.
-Warning: Could not map position 221.70,209.92 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.2' time=13.00.
-Warning: Could not map position 221.71,210.07 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.2' time=13.10.
-Warning: Could not map position 221.79,210.22 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.2' time=13.20.
-Warning: Could not map position 221.87,210.34 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.2' time=13.30.
-Warning: Vehicle '6' performs emergency stop at the end of lane '-196116971#0_0' because there is no connection to the next edge (decel=-10.81, offset=0.45), time=18.50.
-Warning: No connection between edge ':7323390439_w0-1.00' and edge '784001415#0_arrival_connector' found.
-Warning: Person 'pf_1.4' could not find route across junction '7323390439' from walkingArea ':7323390439_w0' to edge '784001415#0', time=20.10.
-Warning: Could not map position 216.13,197.83 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.4' time=20.20.
-Warning: Could not map position 216.19,197.92 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.4' time=20.30.
-Warning: Could not map position 216.24,198.01 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.4' time=20.40.
-Warning: Could not map position 216.30,198.12 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.4' time=20.50.
-Warning: Could not map position 216.36,198.21 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.4' time=20.60.
-Warning: Could not map position 222.71,209.25 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.3' time=22.60.
-Warning: Could not map position 222.77,209.35 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.3' time=22.70.
-Warning: Could not map position 222.83,209.46 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.3' time=22.80.
-Warning: Could not map position 222.89,209.56 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.3' time=22.90.
-Warning: Could not map position 222.95,209.66 onto lane ':7004347452_w0_0' (fromLane='-196117064#1_0' toLane='784001415#1_0') for person 'pf_1.3' time=23.00.
-Warning: No connection between edge ':7323390439_w0-1.00' and edge '784001415#0_arrival_connector' found.
-Warning: Person 'pf_1.5' could not find route across junction '7323390439' from walkingArea ':7323390439_w0' to edge '784001415#0', time=23.10.
-Warning: Could not map position 216.13,197.83 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.5' time=23.20.
-Warning: Could not map position 216.20,197.95 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.5' time=23.30.
-Warning: Could not map position 216.27,198.07 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.5' time=23.40.
-Warning: Could not map position 216.28,198.21 onto lane ':7323390439_w0_0' (fromLane='784001413#2_0' toLane='784001415#0_0') for person 'pf_1.5' time=23.50.
-Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
-Quitting (on error).
-Simulation ended at time: 24.10
+Warning: Could not map position 218.53,163.14 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.0' time=0.70.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.1' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=7.90.
+Warning: Could not map position 218.42,162.92 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.1' time=8.60.
+Warning: Could not map position 218.52,163.11 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.1' time=8.80.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.2' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=15.90.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.3' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=23.90.
+Warning: Could not map position 218.61,163.29 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.3' time=24.80.
+Warning: Could not map position 238.15,198.22 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='E6_0') for person 'pf_0.0' time=31.30.
+Warning: Could not map position 238.21,198.33 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=31.40.
+Warning: Could not map position 238.27,198.44 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=31.50.
+Warning: Could not map position 238.33,198.55 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=31.60.
+Warning: Could not map position 238.40,198.68 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=31.70.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.4' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=31.90.
+Warning: Could not map position 240.06,203.28 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=35.60.
+Warning: Could not map position 240.13,203.41 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=35.70.
+Warning: Could not map position 240.20,203.53 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=35.80.
+Warning: Could not map position 240.27,203.66 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=35.90.
+Warning: Could not map position 240.33,203.77 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=36.00.
+Warning: Could not map position 240.40,203.90 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=36.10.
+Warning: Could not map position 240.46,204.01 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=36.20.
+Warning: Could not map position 240.52,204.12 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=36.30.
+Warning: Could not map position 240.59,204.25 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=36.40.
+Warning: Could not map position 240.65,204.37 onto lane ':1504153626_w1_0' (fromLane=':1504153626_c1_0' toLane='-E5_0') for person 'pf_0.0' time=36.50.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.5' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=39.90.
+Warning: Could not map position 218.38,162.86 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.5' time=40.60.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.6' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=47.90.
+Warning: Could not map position 218.28,162.66 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.6' time=48.30.
+Warning: Could not map position 218.55,163.16 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.6' time=48.70.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.7' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=55.90.
+Warning: Person 'pf_0.3' is jammed on edge ':1504153626_c1', time=59.70.
+Warning: No connection between edge ':7004347451_w0-1.00' and edge 'E6_arrival_connector' found.
+Warning: Person 'pf_0.8' could not find route across junction '7004347451' from walkingArea ':7004347451_w0' to edge 'E6', time=63.90.
+Warning: Could not map position 218.40,162.89 onto lane ':7004347451_w0_0' (fromLane='-E6_0' toLane='E6_0') for person 'pf_0.8' time=64.60.
+Simulation ended at time: 66.70
 Performance: 
- Duration: 30.74s
- TraCI-Duration: 26.84s
- Real time factor: 0.783893
- UPS: 100.182149
- UPS-Persons: 16.686183
+ Duration: 73.50s
+ TraCI-Duration: 66.37s
+ Real time factor: 0.907446
+ UPS: 79.452539
+ UPS-Persons: 40.134416
 Vehicles: 
- Inserted: 23 (Loaded: 25)
- Running: 23
+ Inserted: 30
+ Running: 14
  Waiting: 0
-Emergency Stops: 2
 Persons: 
- Inserted: 6
- Running: 3
+ Inserted: 9
+ Running: 8
+ Jammed: 1
 
-DijkstraRouter answered 20 queries and explored 7.30 edges on average.
-DijkstraRouter spent 0.00s answering queries (0.00ms on average).
+DijkstraRouter answered 52 queries and explored 22.96 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.02ms on average).

@@ -6,7 +6,7 @@ import traci,os
 from util import *
 
 sumoBinary = os.path.join(os.environ['SUMO_HOME'], 'bin', "sumo-gui")
-sumoCmd = [sumoBinary, "-n", "map/map1.net.xml", 
+sumoCmd = [sumoBinary, "-n", "map/map-latest.net.xml", 
 "--step-length", str(0.1),"--start", '--log', './log_file.txt', '--num-clients' , '2']
 traci.start(sumoCmd, port = 3400)
 traci.setOrder(1)
